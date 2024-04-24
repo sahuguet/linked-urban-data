@@ -1,0 +1,464 @@
+[
+  {
+    "name": "1st Precinct",
+    "address": ["16 Ericsson Place", "New York, NY, 10013"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/1st-precinct.page",
+    "uri": "nyc:nypd/precincts/1"
+  },
+  {
+    "name": "5th Precinct",
+    "address": ["19 Elizabeth Street", "New York, NY, 10013"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/5th-precinct.page",
+    "uri": "nyc:nypd/precincts/5"
+  },
+  {
+    "name": "6th Precinct",
+    "address": ["233 West 10th Street", "New York, NY, 10014"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/6th-precinct.page",
+    "uri": "nyc:nypd/precincts/6"
+  },
+  {
+    "name": "7th Precinct",
+    "address": ["19 1/2 Pitt Street", "New York, NY, 10002"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/7th-precinct.page",
+    "uri": "nyc:nypd/precincts/7"
+  },
+  {
+    "name": "9th Precinct",
+    "address": ["321 East 5 Street", "New York, NY, 10003"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/9th-precinct.page",
+    "uri": "nyc:nypd/precincts/9"
+  },
+  {
+    "name": "10th Precinct",
+    "address": ["230 West 20th Street", "New York, NY, 10011"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/10th-precinct.page",
+    "uri": "nyc:nypd/precincts/10"
+  },
+  {
+    "name": "13th Precinct",
+    "address": ["230 East 21st Street ", "New York, NY, 10010-7460"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/13th-precinct.page",
+    "uri": "nyc:nypd/precincts/13"
+  },
+  {
+    "name": "Midtown South Precinct",
+    "address": ["357 West 35th Street", "New York, NY, 10001-1701"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/midtown-south-precinct.page",
+    "uri": "nyc:nypd/precincts/14"
+  },
+  {
+    "name": "17th Precinct",
+    "address": ["167 East 51st Street ", "New York, NY, 10022"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/17th-precinct.page",
+    "uri": "nyc:nypd/precincts/17"
+  },
+  {
+    "name": "Midtown North Precinct",
+    "address": ["306 West 54th Street", "New York, NY, 10019-5102"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/midtown-north-precinct.page",
+    "uri": "nyc:nypd/precincts/18"
+  },
+  {
+    "name": "19th Precinct",
+    "address": ["153 East 67th Street", "New York, NY, 10065"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/19th-precinct.page",
+    "uri": "nyc:nypd/precincts/19"
+  },
+  {
+    "name": "20th Precinct",
+    "address": ["120 West 82nd Street", "New York, NY, 10024-5502"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/20th-precinct.page",
+    "uri": "nyc:nypd/precincts/20"
+  },
+  {
+    "name": "Central Park Precinct",
+    "address": ["86th and Transverse Rd", "New York, NY 10024"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/central-park-precinct.page",
+    "uri": "nyc:nypd/precincts/22"
+  },
+  {
+    "name": "23rd Precinct",
+    "address": ["164 East 102 Street", "New York, NY, 10029-5721"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/23rd-precinct.page",
+    "uri": "nyc:nypd/precincts/23"
+  },
+  {
+    "name": "24th Precinct",
+    "address": ["151 West 100th Street", "New York, NY, 10025-5146"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/24th-precinct.page",
+    "uri": "nyc:nypd/precincts/24"
+  },
+  {
+    "name": "",
+    "address": ["120 East 119th Street", "New York, NY, 10035-3921"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/25th-precinct.page",
+    "uri": "nyc:nypd/precincts/25"
+  },
+  {
+    "name": "26th Precinct",
+    "address": ["520 West 126th Street", "New York, NY, 10027-2406"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/26th-precinct.page",
+    "uri": "nyc:nypd/precincts/26"
+  },
+  {
+    "name": "28th Precinct",
+    "address": ["2271-89 8th Ave.", "New York, NY, 10027-5319"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/28th-precinct.page",
+    "uri": "nyc:nypd/precincts/28"
+  },
+  {
+    "name": "30th Precinct",
+    "address": ["451 West 151st Street", "New York, NY, 10031"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/30th-precinct.page",
+    "uri": "nyc:nypd/precincts/30"
+  },
+  {
+    "name": "32nd Precinct",
+    "address": ["250 West 135th Street", "New York, NY, 10030-2802"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/32nd-precinct.page",
+    "uri": "nyc:nypd/precincts/32"
+  },
+  {
+    "name": "33rd Precinct",
+    "address": ["2207 Amsterdam Ave.", "New York, NY, 10032-2512"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/33rd-precinct.page",
+    "uri": "nyc:nypd/precincts/33"
+  },
+  {
+    "name": "34th Precinct",
+    "address": ["4295 Broadway", "New York, NY, 10033-3729"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/34th-precinct.page",
+    "uri": "nyc:nypd/precincts/34"
+  },
+  {
+    "name": "40th Precinct",
+    "address": ["257 Alexander Ave.", "Bronx, NY, 10454-1133"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/40th-precinct.page",
+    "uri": "nyc:nypd/precincts/40"
+  },
+  {
+    "name": "41st Precinct",
+    "address": ["1035 Longwood Ave.", "Bronx, NY, 10459-5204"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/41st-precinct.page",
+    "uri": "nyc:nypd/precincts/41"
+  },
+  {
+    "name": "42nd Precinct",
+    "address": ["830 Washington Ave.", "Bronx, NY, 10451-4604"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/42nd-precinct.page",
+    "uri": "nyc:nypd/precincts/42"
+  },
+  {
+    "name": "43rd Precinct",
+    "address": ["900 Fteley Ave.", "Bronx, NY, 10473-4006"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/43rd-precinct.page",
+    "uri": "nyc:nypd/precincts/43"
+  },
+  {
+    "name": "44th Precinct",
+    "address": ["2 East 169 Street", "Bronx, NY, 10452-7800"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/44th-precinct.page",
+    "uri": "nyc:nypd/precincts/44"
+  },
+  {
+    "name": "45th Precinct",
+    "address": ["2877 Barkley Ave.", "Bronx, NY, 10465-1949"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/45th-precinct.page",
+    "uri": "nyc:nypd/precincts/45"
+  },
+  {
+    "name": "46th Precinct",
+    "address": ["2120 Ryer Ave.", "Bronx, NY, 10457-2919"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/46th-precinct.page",
+    "uri": "nyc:nypd/precincts/46"
+  },
+  {
+    "name": "47th Precinct",
+    "address": ["4111 Laconia Avenue", "Bronx, NY, 10466-4901"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/47th-precinct.page",
+    "uri": "nyc:nypd/precincts/47"
+  },
+  {
+    "name": "48th Precinct",
+    "address": ["450 Cross Bronx Expressway", "Bronx, NY, 10457-7401"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/48th-precinct.page",
+    "uri": "nyc:nypd/precincts/48"
+  },
+  {
+    "name": "49th Precinct",
+    "address": ["2121 Eastchester Road", "Bronx, NY, 10461-2251"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/49th-precinct.page",
+    "uri": "nyc:nypd/precincts/49"
+  },
+  {
+    "name": "50th Precinct",
+    "address": ["3450 Kingsbridge Ave.", "Bronx, NY, 10463-4004"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/50th-precinct.page",
+    "uri": "nyc:nypd/precincts/50"
+  },
+  {
+    "name": "52nd Precinct",
+    "address": ["3016 Webster Ave.", "Bronx, NY, 10467"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/52nd-precinct.page",
+    "uri": "nyc:nypd/precincts/52"
+  },
+  {
+    "name": "60th Precinct",
+    "address": ["2951 West 8th Street", "Brooklyn, NY, 11224-3615"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/60th-precinct.page",
+    "uri": "nyc:nypd/precincts/60"
+  },
+  {
+    "name": "61st Precinct",
+    "address": ["2575 Coney Island", "Brooklyn, NY, 11223-5027"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/61st-precinct.page",
+    "uri": "nyc:nypd/precincts/61"
+  },
+  {
+    "name": "62nd Precinct",
+    "address": ["1925 Bath Avenue", "Brooklyn, NY, 11214-4714"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/62nd-precinct.page",
+    "uri": "nyc:nypd/precincts/62"
+  },
+  {
+    "name": "63rd Precinct",
+    "address": ["1844 Brooklyn Avenue", "Brooklyn, NY, 11210-4240"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/63rd-precinct.page",
+    "uri": "nyc:nypd/precincts/63"
+  },
+  {
+    "name": "66th Precinct",
+    "address": ["5822 16th Avenue", "Brooklyn, NY, 11204-2111"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/66th-precinct.page",
+    "uri": "nyc:nypd/precincts/66"
+  },
+  {
+    "name": "67th Precinct",
+    "address": ["2820 Snyder Avenue", "Brooklyn, NY 11226"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/67th-precinct.page",
+    "uri": "nyc:nypd/precincts/67"
+  },
+  {
+    "name": "68th Precinct",
+    "address": ["333 65th Street", "Brooklyn, NY, 11220-4927"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/68th-precinct.page",
+    "uri": "nyc:nypd/precincts/68"
+  },
+  {
+    "name": "69th Precinct",
+    "address": ["9720 Foster Avenue", "Brooklyn, NY, 11236-2123"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/69th-precinct.page",
+    "uri": "nyc:nypd/precincts/69"
+  },
+  {
+    "name": "70th Precinct",
+    "address": ["154 Lawrence Avenue", "Brooklyn, NY, 11230-1103"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/70th-precinct.page",
+    "uri": "nyc:nypd/precincts/70"
+  },
+  {
+    "name": "71st Precinct",
+    "address": ["421 Empire Boulevard", "Brooklyn, NY, 11225-3217"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/71st-precinct.page",
+    "uri": "nyc:nypd/precincts/71"
+  },
+  {
+    "name": "72nd Precinct",
+    "address": ["830 4th Avenue", "Brooklyn, NY, 11232-1702"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/72nd-precinct.page",
+    "uri": "nyc:nypd/precincts/72"
+  },
+  {
+    "name": "73rd Precinct",
+    "address": ["1470 East New York Avenue", "Brooklyn, NY, 11212"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/73rd-precinct.page",
+    "uri": "nyc:nypd/precincts/73"
+  },
+  {
+    "name": "75th Precinct",
+    "address": ["1000 Sutter Avenue", "Brooklyn, NY, 11208-3553"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/75th-precinct.page",
+    "uri": "nyc:nypd/precincts/75"
+  },
+  {
+    "name": "76th Precinct",
+    "address": ["191 Union Street", "Brooklyn, NY, 11231-3003"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/76th-precinct.page",
+    "uri": "nyc:nypd/precincts/76"
+  },
+  {
+    "name": "77th Precinct",
+    "address": ["127 Utica Avenue", "Brooklyn, NY, 11213-2338"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/77th-precinct.page",
+    "uri": "nyc:nypd/precincts/77"
+  },
+  {
+    "name": "78th Precinct",
+    "address": ["65 6th Avenue", "Brooklyn, NY, 11217-2110"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/78th-precinct.page",
+    "uri": "nyc:nypd/precincts/78"
+  },
+  {
+    "name": "79th Precinct",
+    "address": ["263 Tompkins Avenue", "Brooklyn, NY, 11216-1220"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/79th-precinct.page",
+    "uri": "nyc:nypd/precincts/79"
+  },
+  {
+    "name": "81st Precinct",
+    "address": ["30 Ralph Avenue", "Brooklyn, NY, 11221-3607"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/81st-precinct.page",
+    "uri": "nyc:nypd/precincts/81"
+  },
+  {
+    "name": "83rd Precinct",
+    "address": ["480 Knickerbocker Avenue", "Brooklyn, NY, 11237-5132"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/83rd-precinct.page",
+    "uri": "nyc:nypd/precincts/83"
+  },
+  {
+    "name": "84th Precinct",
+    "address": ["301 Gold Street", "Brooklyn, NY, 11201-3003"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/84th-precinct.page",
+    "uri": "nyc:nypd/precincts/84"
+  },
+  {
+    "name": "88th Precinct",
+    "address": ["298 Classon Avenue", "Brooklyn, NY, 11205-4301"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/88th-precinct.page",
+    "uri": "nyc:nypd/precincts/88"
+  },
+  {
+    "name": "90th Precinct",
+    "address": ["211 Union Avenue", "Brooklyn, NY, 11211-7417"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/90th-precinct.page",
+    "uri": "nyc:nypd/precincts/90"
+  },
+  {
+    "name": "94th Precinct",
+    "address": ["100 Meserole Avenue", "Brooklyn, NY, 11222-2636"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/94th-precinct.page",
+    "uri": "nyc:nypd/precincts/94"
+  },
+  {
+    "name": "100th Precinct",
+    "address": ["92-24 Rockaway Beach Blvd.,", "Queens, NY, 11693-1527"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/100th-precinct.page",
+    "uri": "nyc:nypd/precincts/100"
+  },
+  {
+    "name": "101st Precinct",
+    "address": ["16-12 Mott Avenue,", "Far Rockaway, NY, 11691-4202"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/101st-precinct.page",
+    "uri": "nyc:nypd/precincts/101"
+  },
+  {
+    "name": "102nd Precinct",
+    "address": ["87-34 118th Street, ", "Richmond Hill, NY, 11418-2527"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/102nd-precinct.page",
+    "uri": "nyc:nypd/precincts/102"
+  },
+  {
+    "name": "103rd Precinct",
+    "address": ["168-02 91st Ave, ", "Jamaica, NY, 11432-5229"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/103rd-precinct.page",
+    "uri": "nyc:nypd/precincts/103"
+  },
+  {
+    "name": "104th Precinct",
+    "address": ["64-2 Catalpa Ave., ", "Queens, NY, 11385-5257"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/104th-precinct.page",
+    "uri": "nyc:nypd/precincts/104"
+  },
+  {
+    "name": "105th Precinct",
+    "address": ["92-08 222nd Street, ", "Queens Village, NY, 11428-1474"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/105th-precinct.page",
+    "uri": "nyc:nypd/precincts/105"
+  },
+  {
+    "name": "106th Precinct",
+    "address": ["103-53 101st Street, ", "Ozone Park, NY, 11417-1707"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/106th-precinct.page",
+    "uri": "nyc:nypd/precincts/106"
+  },
+  {
+    "name": "107th Precinct",
+    "address": ["71-01 Parsons Blvd., ", "Flushing, NY, 11365-4113"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/107th-precinct.page",
+    "uri": "nyc:nypd/precincts/107"
+  },
+  {
+    "name": "108th Precinct",
+    "address": ["5-47 50th Ave., ", "Long Island City, NY, 11101"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/108th-precinct.page",
+    "uri": "nyc:nypd/precincts/108"
+  },
+  {
+    "name": "109th Precinct",
+    "address": ["37-05 Union Street, ", "Flushing, NY, 11354-4117"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/109th-precinct.page",
+    "uri": "nyc:nypd/precincts/109"
+  },
+  {
+    "name": "110th Precinct",
+    "address": ["94-41 43rd Ave., ", "Elmhurst, NY, 11373-2853"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/110th-precinct.page",
+    "uri": "nyc:nypd/precincts/110"
+  },
+  {
+    "name": "111th Precinct",
+    "address": ["45-06 215th Street, ", "Bayside, NY, 11361"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/111th-precinct.page",
+    "uri": "nyc:nypd/precincts/111"
+  },
+  {
+    "name": "112th Precinct",
+    "address": ["68-40 Austin Street, ", "Forest Hills, NY, 11375-4242"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/112th-precinct.page",
+    "uri": "nyc:nypd/precincts/112"
+  },
+  {
+    "name": "113th Precinct",
+    "address": ["167-02 Baisley Blvd., ", "Jamaica, NY, 11434-2511"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/113th-precinct.page",
+    "uri": "nyc:nypd/precincts/113"
+  },
+  {
+    "name": "114th Precinct",
+    "address": ["34-16 Astoria Blvd., ", "Queens, NY, 11103-4425"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/114th-precinct.page",
+    "uri": "nyc:nypd/precincts/114"
+  },
+  {
+    "name": "115th Precinct",
+    "address": ["92-15 Northern Blvd., ", "Jackson Hgts., NY, 11372-1747"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/115th-precinct.page",
+    "uri": "nyc:nypd/precincts/115"
+  },
+  {
+    "name": "120th Precinct",
+    "address": ["78 Richmond Terrace, ", "St. George, NY, 10301-1905"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/120th-precinct.page",
+    "uri": "nyc:nypd/precincts/120"
+  },
+  {
+    "name": "121st Precinct",
+    "address": ["970 Richmond Avenue, ", "Staten Island, NY, 10314-1503"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/121st-precinct.page",
+    "uri": "nyc:nypd/precincts/121"
+  },
+  {
+    "name": "122nd Precinct",
+    "address": ["2320 Hylan Blvd., ", "New Dorp, NY, 10306-3207"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/122nd-precinct.page",
+    "uri": "nyc:nypd/precincts/122"
+  },
+  {
+    "name": "123rd Precinct",
+    "address": ["116 Main Street, ", "Staten Island, NY, 10307-1227"],
+    "url": "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/123rd-precinct.page",
+    "uri": "nyc:nypd/precincts/123"
+  }
+]

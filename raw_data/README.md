@@ -17,3 +17,14 @@
 
 ## TODOs
 * add more information for each school, e.g. grades, contact information.
+
+# For Police Precincts
+
+We extract the data from the website. See Colab at https://colab.research.google.com/drive/1QhzfAtsvPhPkf_qgzpXOlkWf6iyWvUEn#scrollTo=mNUSXDlkSLOP .
+
+## Issues
+* the RDF is sorting precincts as strings instead of numbers. We don't get the logical sequence, [1, 2, 3, etc.] but [1, 10, 11, etc.]
+* the namespace prefix does not work. We have to use the full and long URI. I filed a bug at https://github.com/edmcouncil/rdf-toolkit/issues/74
+
+## TODOS
+* format address properly. Currently, this is just TEXT.

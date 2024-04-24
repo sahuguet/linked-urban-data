@@ -1,0 +1,546 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix s: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xs: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://nypd.org/precincts/1>
+	a s:PoliceStation ;
+	s:address "16 Ericsson Place, New York, NY, 10013" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/1st-precinct.page" ;
+	skos:prefLabel "1st Precinct" ;
+	.
+
+<http://nypd.org/precincts/10>
+	a s:PoliceStation ;
+	s:address "230 West 20th Street, New York, NY, 10011" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/10th-precinct.page" ;
+	skos:prefLabel "10th Precinct" ;
+	.
+
+<http://nypd.org/precincts/100>
+	a s:PoliceStation ;
+	s:address "92-24 Rockaway Beach Blvd., Queens, NY, 11693-1527" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/100th-precinct.page" ;
+	skos:prefLabel "100th Precinct" ;
+	.
+
+<http://nypd.org/precincts/101>
+	a s:PoliceStation ;
+	s:address "16-12 Mott Avenue, Far Rockaway, NY, 11691-4202" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/101st-precinct.page" ;
+	skos:prefLabel "101st Precinct" ;
+	.
+
+<http://nypd.org/precincts/102>
+	a s:PoliceStation ;
+	s:address "87-34 118th Street, Richmond Hill, NY, 11418-2527" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/102nd-precinct.page" ;
+	skos:prefLabel "102nd Precinct" ;
+	.
+
+<http://nypd.org/precincts/103>
+	a s:PoliceStation ;
+	s:address "168-02 91st Ave, Jamaica, NY, 11432-5229" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/103rd-precinct.page" ;
+	skos:prefLabel "103rd Precinct" ;
+	.
+
+<http://nypd.org/precincts/104>
+	a s:PoliceStation ;
+	s:address "64-2 Catalpa Ave., Queens, NY, 11385-5257" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/104th-precinct.page" ;
+	skos:prefLabel "104th Precinct" ;
+	.
+
+<http://nypd.org/precincts/105>
+	a s:PoliceStation ;
+	s:address "92-08 222nd Street, Queens Village, NY, 11428-1474" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/105th-precinct.page" ;
+	skos:prefLabel "105th Precinct" ;
+	.
+
+<http://nypd.org/precincts/106>
+	a s:PoliceStation ;
+	s:address "103-53 101st Street, Ozone Park, NY, 11417-1707" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/106th-precinct.page" ;
+	skos:prefLabel "106th Precinct" ;
+	.
+
+<http://nypd.org/precincts/107>
+	a s:PoliceStation ;
+	s:address "71-01 Parsons Blvd., Flushing, NY, 11365-4113" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/107th-precinct.page" ;
+	skos:prefLabel "107th Precinct" ;
+	.
+
+<http://nypd.org/precincts/108>
+	a s:PoliceStation ;
+	s:address "5-47 50th Ave., Long Island City, NY, 11101" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/108th-precinct.page" ;
+	skos:prefLabel "108th Precinct" ;
+	.
+
+<http://nypd.org/precincts/109>
+	a s:PoliceStation ;
+	s:address "37-05 Union Street, Flushing, NY, 11354-4117" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/109th-precinct.page" ;
+	skos:prefLabel "109th Precinct" ;
+	.
+
+<http://nypd.org/precincts/110>
+	a s:PoliceStation ;
+	s:address "94-41 43rd Ave., Elmhurst, NY, 11373-2853" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/110th-precinct.page" ;
+	skos:prefLabel "110th Precinct" ;
+	.
+
+<http://nypd.org/precincts/111>
+	a s:PoliceStation ;
+	s:address "45-06 215th Street, Bayside, NY, 11361" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/111th-precinct.page" ;
+	skos:prefLabel "111th Precinct" ;
+	.
+
+<http://nypd.org/precincts/112>
+	a s:PoliceStation ;
+	s:address "68-40 Austin Street, Forest Hills, NY, 11375-4242" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/112th-precinct.page" ;
+	skos:prefLabel "112th Precinct" ;
+	.
+
+<http://nypd.org/precincts/113>
+	a s:PoliceStation ;
+	s:address "167-02 Baisley Blvd., Jamaica, NY, 11434-2511" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/113th-precinct.page" ;
+	skos:prefLabel "113th Precinct" ;
+	.
+
+<http://nypd.org/precincts/114>
+	a s:PoliceStation ;
+	s:address "34-16 Astoria Blvd., Queens, NY, 11103-4425" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/114th-precinct.page" ;
+	skos:prefLabel "114th Precinct" ;
+	.
+
+<http://nypd.org/precincts/115>
+	a s:PoliceStation ;
+	s:address "92-15 Northern Blvd., Jackson Hgts., NY, 11372-1747" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/115th-precinct.page" ;
+	skos:prefLabel "115th Precinct" ;
+	.
+
+<http://nypd.org/precincts/120>
+	a s:PoliceStation ;
+	s:address "78 Richmond Terrace, St. George, NY, 10301-1905" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/120th-precinct.page" ;
+	skos:prefLabel "120th Precinct" ;
+	.
+
+<http://nypd.org/precincts/121>
+	a s:PoliceStation ;
+	s:address "970 Richmond Avenue, Staten Island, NY, 10314-1503" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/121st-precinct.page" ;
+	skos:prefLabel "121st Precinct" ;
+	.
+
+<http://nypd.org/precincts/122>
+	a s:PoliceStation ;
+	s:address "2320 Hylan Blvd., New Dorp, NY, 10306-3207" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/122nd-precinct.page" ;
+	skos:prefLabel "122nd Precinct" ;
+	.
+
+<http://nypd.org/precincts/123>
+	a s:PoliceStation ;
+	s:address "116 Main Street, Staten Island, NY, 10307-1227" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/123rd-precinct.page" ;
+	skos:prefLabel "123rd Precinct" ;
+	.
+
+<http://nypd.org/precincts/13>
+	a s:PoliceStation ;
+	s:address "230 East 21st Street, New York, NY, 10010-7460" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/13th-precinct.page" ;
+	skos:prefLabel "13th Precinct" ;
+	.
+
+<http://nypd.org/precincts/14>
+	a s:PoliceStation ;
+	s:address "357 West 35th Street, New York, NY, 10001-1701" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/midtown-south-precinct.page" ;
+	skos:prefLabel "Midtown South Precinct" ;
+	.
+
+<http://nypd.org/precincts/17>
+	a s:PoliceStation ;
+	s:address "167 East 51st Street, New York, NY, 10022" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/17th-precinct.page" ;
+	skos:prefLabel "17th Precinct" ;
+	.
+
+<http://nypd.org/precincts/18>
+	a s:PoliceStation ;
+	s:address "306 West 54th Street, New York, NY, 10019-5102" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/midtown-north-precinct.page" ;
+	skos:prefLabel "Midtown North Precinct" ;
+	.
+
+<http://nypd.org/precincts/19>
+	a s:PoliceStation ;
+	s:address "153 East 67th Street, New York, NY, 10065" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/19th-precinct.page" ;
+	skos:prefLabel "19th Precinct" ;
+	.
+
+<http://nypd.org/precincts/20>
+	a s:PoliceStation ;
+	s:address "120 West 82nd Street, New York, NY, 10024-5502" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/20th-precinct.page" ;
+	skos:prefLabel "20th Precinct" ;
+	.
+
+<http://nypd.org/precincts/22>
+	a s:PoliceStation ;
+	s:address "86th and Transverse Rd, New York, NY 10024" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/central-park-precinct.page" ;
+	skos:prefLabel "Central Park Precinct" ;
+	.
+
+<http://nypd.org/precincts/23>
+	a s:PoliceStation ;
+	s:address "164 East 102 Street, New York, NY, 10029-5721" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/23rd-precinct.page" ;
+	skos:prefLabel "23rd Precinct" ;
+	.
+
+<http://nypd.org/precincts/24>
+	a s:PoliceStation ;
+	s:address "151 West 100th Street, New York, NY, 10025-5146" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/24th-precinct.page" ;
+	skos:prefLabel "24th Precinct" ;
+	.
+
+<http://nypd.org/precincts/25>
+	a s:PoliceStation ;
+	s:address "120 East 119th Street, New York, NY, 10035-3921" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/25th-precinct.page" ;
+	skos:prefLabel "" ;
+	.
+
+<http://nypd.org/precincts/26>
+	a s:PoliceStation ;
+	s:address "520 West 126th Street, New York, NY, 10027-2406" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/26th-precinct.page" ;
+	skos:prefLabel "26th Precinct" ;
+	.
+
+<http://nypd.org/precincts/28>
+	a s:PoliceStation ;
+	s:address "2271-89 8th Ave., New York, NY, 10027-5319" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/28th-precinct.page" ;
+	skos:prefLabel "28th Precinct" ;
+	.
+
+<http://nypd.org/precincts/30>
+	a s:PoliceStation ;
+	s:address "451 West 151st Street, New York, NY, 10031" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/30th-precinct.page" ;
+	skos:prefLabel "30th Precinct" ;
+	.
+
+<http://nypd.org/precincts/32>
+	a s:PoliceStation ;
+	s:address "250 West 135th Street, New York, NY, 10030-2802" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/32nd-precinct.page" ;
+	skos:prefLabel "32nd Precinct" ;
+	.
+
+<http://nypd.org/precincts/33>
+	a s:PoliceStation ;
+	s:address "2207 Amsterdam Ave., New York, NY, 10032-2512" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/33rd-precinct.page" ;
+	skos:prefLabel "33rd Precinct" ;
+	.
+
+<http://nypd.org/precincts/34>
+	a s:PoliceStation ;
+	s:address "4295 Broadway, New York, NY, 10033-3729" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/34th-precinct.page" ;
+	skos:prefLabel "34th Precinct" ;
+	.
+
+<http://nypd.org/precincts/40>
+	a s:PoliceStation ;
+	s:address "257 Alexander Ave., Bronx, NY, 10454-1133" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/40th-precinct.page" ;
+	skos:prefLabel "40th Precinct" ;
+	.
+
+<http://nypd.org/precincts/41>
+	a s:PoliceStation ;
+	s:address "1035 Longwood Ave., Bronx, NY, 10459-5204" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/41st-precinct.page" ;
+	skos:prefLabel "41st Precinct" ;
+	.
+
+<http://nypd.org/precincts/42>
+	a s:PoliceStation ;
+	s:address "830 Washington Ave., Bronx, NY, 10451-4604" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/42nd-precinct.page" ;
+	skos:prefLabel "42nd Precinct" ;
+	.
+
+<http://nypd.org/precincts/43>
+	a s:PoliceStation ;
+	s:address "900 Fteley Ave., Bronx, NY, 10473-4006" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/43rd-precinct.page" ;
+	skos:prefLabel "43rd Precinct" ;
+	.
+
+<http://nypd.org/precincts/44>
+	a s:PoliceStation ;
+	s:address "2 East 169 Street, Bronx, NY, 10452-7800" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/44th-precinct.page" ;
+	skos:prefLabel "44th Precinct" ;
+	.
+
+<http://nypd.org/precincts/45>
+	a s:PoliceStation ;
+	s:address "2877 Barkley Ave., Bronx, NY, 10465-1949" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/45th-precinct.page" ;
+	skos:prefLabel "45th Precinct" ;
+	.
+
+<http://nypd.org/precincts/46>
+	a s:PoliceStation ;
+	s:address "2120 Ryer Ave., Bronx, NY, 10457-2919" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/46th-precinct.page" ;
+	skos:prefLabel "46th Precinct" ;
+	.
+
+<http://nypd.org/precincts/47>
+	a s:PoliceStation ;
+	s:address "4111 Laconia Avenue, Bronx, NY, 10466-4901" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/47th-precinct.page" ;
+	skos:prefLabel "47th Precinct" ;
+	.
+
+<http://nypd.org/precincts/48>
+	a s:PoliceStation ;
+	s:address "450 Cross Bronx Expressway, Bronx, NY, 10457-7401" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/48th-precinct.page" ;
+	skos:prefLabel "48th Precinct" ;
+	.
+
+<http://nypd.org/precincts/49>
+	a s:PoliceStation ;
+	s:address "2121 Eastchester Road, Bronx, NY, 10461-2251" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/49th-precinct.page" ;
+	skos:prefLabel "49th Precinct" ;
+	.
+
+<http://nypd.org/precincts/5>
+	a s:PoliceStation ;
+	s:address "19 Elizabeth Street, New York, NY, 10013" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/5th-precinct.page" ;
+	skos:prefLabel "5th Precinct" ;
+	.
+
+<http://nypd.org/precincts/50>
+	a s:PoliceStation ;
+	s:address "3450 Kingsbridge Ave., Bronx, NY, 10463-4004" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/50th-precinct.page" ;
+	skos:prefLabel "50th Precinct" ;
+	.
+
+<http://nypd.org/precincts/52>
+	a s:PoliceStation ;
+	s:address "3016 Webster Ave., Bronx, NY, 10467" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/52nd-precinct.page" ;
+	skos:prefLabel "52nd Precinct" ;
+	.
+
+<http://nypd.org/precincts/6>
+	a s:PoliceStation ;
+	s:address "233 West 10th Street, New York, NY, 10014" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/6th-precinct.page" ;
+	skos:prefLabel "6th Precinct" ;
+	.
+
+<http://nypd.org/precincts/60>
+	a s:PoliceStation ;
+	s:address "2951 West 8th Street, Brooklyn, NY, 11224-3615" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/60th-precinct.page" ;
+	skos:prefLabel "60th Precinct" ;
+	.
+
+<http://nypd.org/precincts/61>
+	a s:PoliceStation ;
+	s:address "2575 Coney Island, Brooklyn, NY, 11223-5027" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/61st-precinct.page" ;
+	skos:prefLabel "61st Precinct" ;
+	.
+
+<http://nypd.org/precincts/62>
+	a s:PoliceStation ;
+	s:address "1925 Bath Avenue, Brooklyn, NY, 11214-4714" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/62nd-precinct.page" ;
+	skos:prefLabel "62nd Precinct" ;
+	.
+
+<http://nypd.org/precincts/63>
+	a s:PoliceStation ;
+	s:address "1844 Brooklyn Avenue, Brooklyn, NY, 11210-4240" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/63rd-precinct.page" ;
+	skos:prefLabel "63rd Precinct" ;
+	.
+
+<http://nypd.org/precincts/66>
+	a s:PoliceStation ;
+	s:address "5822 16th Avenue, Brooklyn, NY, 11204-2111" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/66th-precinct.page" ;
+	skos:prefLabel "66th Precinct" ;
+	.
+
+<http://nypd.org/precincts/67>
+	a s:PoliceStation ;
+	s:address "2820 Snyder Avenue, Brooklyn, NY 11226" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/67th-precinct.page" ;
+	skos:prefLabel "67th Precinct" ;
+	.
+
+<http://nypd.org/precincts/68>
+	a s:PoliceStation ;
+	s:address "333 65th Street, Brooklyn, NY, 11220-4927" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/68th-precinct.page" ;
+	skos:prefLabel "68th Precinct" ;
+	.
+
+<http://nypd.org/precincts/69>
+	a s:PoliceStation ;
+	s:address "9720 Foster Avenue, Brooklyn, NY, 11236-2123" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/69th-precinct.page" ;
+	skos:prefLabel "69th Precinct" ;
+	.
+
+<http://nypd.org/precincts/7>
+	a s:PoliceStation ;
+	s:address "19 1/2 Pitt Street, New York, NY, 10002" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/7th-precinct.page" ;
+	skos:prefLabel "7th Precinct" ;
+	.
+
+<http://nypd.org/precincts/70>
+	a s:PoliceStation ;
+	s:address "154 Lawrence Avenue, Brooklyn, NY, 11230-1103" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/70th-precinct.page" ;
+	skos:prefLabel "70th Precinct" ;
+	.
+
+<http://nypd.org/precincts/71>
+	a s:PoliceStation ;
+	s:address "421 Empire Boulevard, Brooklyn, NY, 11225-3217" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/71st-precinct.page" ;
+	skos:prefLabel "71st Precinct" ;
+	.
+
+<http://nypd.org/precincts/72>
+	a s:PoliceStation ;
+	s:address "830 4th Avenue, Brooklyn, NY, 11232-1702" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/72nd-precinct.page" ;
+	skos:prefLabel "72nd Precinct" ;
+	.
+
+<http://nypd.org/precincts/73>
+	a s:PoliceStation ;
+	s:address "1470 East New York Avenue, Brooklyn, NY, 11212" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/73rd-precinct.page" ;
+	skos:prefLabel "73rd Precinct" ;
+	.
+
+<http://nypd.org/precincts/75>
+	a s:PoliceStation ;
+	s:address "1000 Sutter Avenue, Brooklyn, NY, 11208-3553" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/75th-precinct.page" ;
+	skos:prefLabel "75th Precinct" ;
+	.
+
+<http://nypd.org/precincts/76>
+	a s:PoliceStation ;
+	s:address "191 Union Street, Brooklyn, NY, 11231-3003" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/76th-precinct.page" ;
+	skos:prefLabel "76th Precinct" ;
+	.
+
+<http://nypd.org/precincts/77>
+	a s:PoliceStation ;
+	s:address "127 Utica Avenue, Brooklyn, NY, 11213-2338" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/77th-precinct.page" ;
+	skos:prefLabel "77th Precinct" ;
+	.
+
+<http://nypd.org/precincts/78>
+	a s:PoliceStation ;
+	s:address "65 6th Avenue, Brooklyn, NY, 11217-2110" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/78th-precinct.page" ;
+	skos:prefLabel "78th Precinct" ;
+	.
+
+<http://nypd.org/precincts/79>
+	a s:PoliceStation ;
+	s:address "263 Tompkins Avenue, Brooklyn, NY, 11216-1220" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/79th-precinct.page" ;
+	skos:prefLabel "79th Precinct" ;
+	.
+
+<http://nypd.org/precincts/81>
+	a s:PoliceStation ;
+	s:address "30 Ralph Avenue, Brooklyn, NY, 11221-3607" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/81st-precinct.page" ;
+	skos:prefLabel "81st Precinct" ;
+	.
+
+<http://nypd.org/precincts/83>
+	a s:PoliceStation ;
+	s:address "480 Knickerbocker Avenue, Brooklyn, NY, 11237-5132" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/83rd-precinct.page" ;
+	skos:prefLabel "83rd Precinct" ;
+	.
+
+<http://nypd.org/precincts/84>
+	a s:PoliceStation ;
+	s:address "301 Gold Street, Brooklyn, NY, 11201-3003" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/84th-precinct.page" ;
+	skos:prefLabel "84th Precinct" ;
+	.
+
+<http://nypd.org/precincts/88>
+	a s:PoliceStation ;
+	s:address "298 Classon Avenue, Brooklyn, NY, 11205-4301" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/88th-precinct.page" ;
+	skos:prefLabel "88th Precinct" ;
+	.
+
+<http://nypd.org/precincts/9>
+	a s:PoliceStation ;
+	s:address "321 East 5 Street, New York, NY, 10003" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/9th-precinct.page" ;
+	skos:prefLabel "9th Precinct" ;
+	.
+
+<http://nypd.org/precincts/90>
+	a s:PoliceStation ;
+	s:address "211 Union Avenue, Brooklyn, NY, 11211-7417" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/90th-precinct.page" ;
+	skos:prefLabel "90th Precinct" ;
+	.
+
+<http://nypd.org/precincts/94>
+	a s:PoliceStation ;
+	s:address "100 Meserole Avenue, Brooklyn, NY, 11222-2636" ;
+	s:url "https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/94th-precinct.page" ;
+	skos:prefLabel "94th Precinct" ;
+	.
+
