@@ -28,3 +28,28 @@ We extract the data from the website. See Colab at https://colab.research.google
 
 ## TODOS
 * format address properly. Currently, this is just TEXT.
+
+# Public Libraries
+
+We extract the data from the respective websites.
+1. the opendata datasets are too old.
+2. the opendata datasets do not contain the link the branch website
+
+The code is in a [Google Colab](https://colab.research.google.com/drive/1iBsNNLExIAb78PcR-jAhCgQ80qZxNO8l?usp=sharing).
+
+We unify all branches across boroughs using the following URI scheme
+```
+nyc.gov/libraries/Bk-
+nyc.gov/libraries/Bx-
+nyc.gov/libraries/M-
+nyc.gov/libraries/Q-
+nyc.gov/libraries/SI-
+```
+
+For each branch we provide
+
+* id
+* name
+* address
+* url
+* opening hours (TODO)

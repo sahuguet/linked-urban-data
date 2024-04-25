@@ -1,0 +1,1814 @@
+@prefix nyc: <http://nyc.gov/libraries/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix s: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xs: <http://www.w3.org/2001/XMLSchema#> .
+
+nyc:Bk-adams-street
+	a s:Library ;
+	s:address "9 Adams Street (between John and Plymouth) Brooklyn, NY 11201" ;
+	s:url "https://www.bklynlibrary.org/locations/adams-street" ;
+	skos:prefLabel "Adams Street Library" ;
+	.
+
+nyc:Bk-arlington
+	a s:Library ;
+	s:address "203 Arlington Ave. at Warwick St. Brooklyn, NY 11207" ;
+	s:url "https://www.bklynlibrary.org/locations/arlington" ;
+	skos:prefLabel "Arlington Library" ;
+	.
+
+nyc:Bk-bay-ridge
+	a s:Library ;
+	s:address "7223 Ridge Blvd. at 73rd St. Brooklyn, NY 11209" ;
+	s:url "https://www.bklynlibrary.org/locations/bay-ridge" ;
+	skos:prefLabel "Bay Ridge Library" ;
+	.
+
+nyc:Bk-bedford
+	a s:Library ;
+	s:address "496 Franklin Avenue Brooklyn, NY 11238" ;
+	s:url "https://www.bklynlibrary.org/locations/bedford" ;
+	skos:prefLabel "Bedford Library" ;
+	.
+
+nyc:Bk-borough-park
+	a s:Library ;
+	s:address "1265 43rd St. at 13th Ave. Brooklyn, NY 11219" ;
+	s:url "https://www.bklynlibrary.org/locations/borough-park" ;
+	skos:prefLabel "Borough Park Library" ;
+	.
+
+nyc:Bk-brighton-beach
+	a s:Library ;
+	s:address "16 Brighton First Rd. at Brighton Beach Ave. Brooklyn, NY 11235" ;
+	s:url "https://www.bklynlibrary.org/locations/brighton-beach" ;
+	skos:prefLabel "Brighton Beach Library" ;
+	.
+
+nyc:Bk-brooklyn-heights
+	a s:Library ;
+	s:address "286 Cadman Plaza West Brooklyn, NY 11201" ;
+	s:url "https://www.bklynlibrary.org/locations/brooklyn-heights" ;
+	skos:prefLabel "Brooklyn Heights Library" ;
+	.
+
+nyc:Bk-brower-park
+	a s:Library ;
+	s:address "155 Brooklyn Ave Brooklyn, NY 11213" ;
+	s:url "https://www.bklynlibrary.org/locations/brower-park" ;
+	skos:prefLabel "Brower Park Library at Brooklyn Children's Museum" ;
+	.
+
+nyc:Bk-brownsville
+	a s:Library ;
+	s:address "61 Glenmore Ave. at Watkins St. Brooklyn, NY 11212" ;
+	s:url "https://www.bklynlibrary.org/locations/brownsville" ;
+	skos:prefLabel "Brownsville Library" ;
+	.
+
+nyc:Bk-bushwick
+	a s:Library ;
+	s:address "340 Bushwick Avenue Brooklyn, NY 11206" ;
+	s:url "https://www.bklynlibrary.org/locations/bushwick" ;
+	skos:prefLabel "Bushwick Library" ;
+	.
+
+nyc:Bk-canarsie
+	a s:Library ;
+	s:address "1580 Rockaway Pkwy. at Ave. J Brooklyn, NY 11236" ;
+	s:url "https://www.bklynlibrary.org/locations/canarsie" ;
+	skos:prefLabel "Canarsie Library" ;
+	.
+
+nyc:Bk-carroll-gardens
+	a s:Library ;
+	s:address "396 Clinton St. Brooklyn, NY 11231" ;
+	s:url "https://www.bklynlibrary.org/locations/carroll-gardens" ;
+	skos:prefLabel "Carroll Gardens Library" ;
+	.
+
+nyc:Bk-center-for-brooklyn-history
+	a s:Library ;
+	s:address "128 Pierrepont Street Brooklyn, NY 11201" ;
+	s:url "https://www.bklynlibrary.org/locations/center-for-brooklyn-history" ;
+	skos:prefLabel "Center for Brooklyn History" ;
+	.
+
+nyc:Bk-central
+	a s:Library ;
+	s:address "10 Grand Army Plaza Brooklyn, NY 11238" ;
+	s:url "https://www.bklynlibrary.org/locations/central" ;
+	skos:prefLabel "Central Library" ;
+	.
+
+nyc:Bk-clarendon
+	a s:Library ;
+	s:address "2035 Nostrand Ave. Brooklyn, NY 11210" ;
+	s:url "https://www.bklynlibrary.org/locations/clarendon" ;
+	skos:prefLabel "Clarendon Library" ;
+	.
+
+nyc:Bk-clinton-hill
+	a s:Library ;
+	s:address "380 Washington Ave. at Lafayette Ave. Brooklyn, NY 11238" ;
+	s:url "https://www.bklynlibrary.org/locations/clinton-hill" ;
+	skos:prefLabel "Clinton Hill Library" ;
+	.
+
+nyc:Bk-coney-island
+	a s:Library ;
+	s:address "1901 Mermaid Ave. (Near W. 19th St.) Brooklyn, NY 11224" ;
+	s:url "https://www.bklynlibrary.org/locations/coney-island" ;
+	skos:prefLabel "Coney Island Library" ;
+	.
+
+nyc:Bk-cortelyou
+	a s:Library ;
+	s:address "1305 Cortelyou Rd. at Argyle Rd. Brooklyn, NY 11226" ;
+	s:url "https://www.bklynlibrary.org/locations/cortelyou" ;
+	skos:prefLabel "Cortelyou Library" ;
+	.
+
+nyc:Bk-crown-heights
+	a s:Library ;
+	s:address "560 New York Ave. at Maple St. Brooklyn, NY 11225" ;
+	s:url "https://www.bklynlibrary.org/locations/crown-heights" ;
+	skos:prefLabel "Crown Heights Library" ;
+	.
+
+nyc:Bk-cypress-hills
+	a s:Library ;
+	s:address "1197 Sutter Ave. at Crystal St. Brooklyn, NY 11208" ;
+	s:url "https://www.bklynlibrary.org/locations/cypress-hills" ;
+	skos:prefLabel "Cypress Hills Library" ;
+	.
+
+nyc:Bk-dekalb
+	a s:Library ;
+	s:address "790 Bushwick Ave. at DeKalb Ave. Brooklyn, NY 11221" ;
+	s:url "https://www.bklynlibrary.org/locations/dekalb" ;
+	skos:prefLabel "DeKalb Library" ;
+	.
+
+nyc:Bk-dyker
+	a s:Library ;
+	s:address "8202 13th Ave. (@ 82nd St.) Brooklyn, NY 11228" ;
+	s:url "https://www.bklynlibrary.org/locations/dyker" ;
+	skos:prefLabel "Dyker Library" ;
+	.
+
+nyc:Bk-east-flatbush
+	a s:Library ;
+	s:address "9612 Church Ave Brooklyn, NY 11212" ;
+	s:url "https://www.bklynlibrary.org/locations/east-flatbush" ;
+	skos:prefLabel "East Flatbush Library" ;
+	.
+
+nyc:Bk-eastern-parkway
+	a s:Library ;
+	s:address "1044 Eastern Pkwy. at Schenectady Ave. Brooklyn, NY 11213" ;
+	s:url "https://www.bklynlibrary.org/locations/eastern-parkway" ;
+	skos:prefLabel "Eastern Parkway Library" ;
+	.
+
+nyc:Bk-flatbush
+	a s:Library ;
+	s:address "22 Linden Blvd. at Flatbush Ave. Brooklyn, NY 11226" ;
+	s:url "https://www.bklynlibrary.org/locations/flatbush" ;
+	skos:prefLabel "Flatbush Library" ;
+	.
+
+nyc:Bk-flatlands
+	a s:Library ;
+	s:address "2065 Flatbush Ave. at Ave. P Brooklyn, NY 11234" ;
+	s:url "https://www.bklynlibrary.org/locations/flatlands" ;
+	skos:prefLabel "Flatlands Library" ;
+	.
+
+nyc:Bk-fort-hamilton
+	a s:Library ;
+	s:address "9424 Fourth Ave. Brooklyn, NY 11209" ;
+	s:url "https://www.bklynlibrary.org/locations/fort-hamilton" ;
+	skos:prefLabel "Fort Hamilton Library" ;
+	.
+
+nyc:Bk-gerritsen-beach
+	a s:Library ;
+	s:address "2808 Gerritsen Ave. Brooklyn, NY 11229" ;
+	s:url "https://www.bklynlibrary.org/locations/gerritsen-beach" ;
+	skos:prefLabel "Gerritsen Beach Library" ;
+	.
+
+nyc:Bk-gravesend
+	a s:Library ;
+	s:address "303 Ave. X at West. 2nd St. Brooklyn, NY 11223" ;
+	s:url "https://www.bklynlibrary.org/locations/gravesend" ;
+	skos:prefLabel "Gravesend Library" ;
+	.
+
+nyc:Bk-greenpoint
+	a s:Library ;
+	s:address "107 Norman Ave. at Leonard St. Brooklyn, NY 11222" ;
+	s:url "https://www.bklynlibrary.org/locations/greenpoint" ;
+	skos:prefLabel "Greenpoint Library" ;
+	.
+
+nyc:Bk-highlawn
+	a s:Library ;
+	s:address "1664 W. 13th St. Brooklyn, NY 11223" ;
+	s:url "https://www.bklynlibrary.org/locations/highlawn" ;
+	skos:prefLabel "Highlawn Library" ;
+	.
+
+nyc:Bk-homecrest
+	a s:Library ;
+	s:address "2525 Coney Island Ave. at Ave. V Brooklyn, NY 11223" ;
+	s:url "https://www.bklynlibrary.org/locations/homecrest" ;
+	skos:prefLabel "Homecrest Library" ;
+	.
+
+nyc:Bk-jamaica-bay
+	a s:Library ;
+	s:address "9727 Seaview Ave. at E. 98th St. near Rockaway Pkwy. Brooklyn, NY 11236" ;
+	s:url "https://www.bklynlibrary.org/locations/jamaica-bay" ;
+	skos:prefLabel "Jamaica Bay Library" ;
+	.
+
+nyc:Bk-kensington
+	a s:Library ;
+	s:address "4207 18th Avenue Brooklyn, NY 11218" ;
+	s:url "https://www.bklynlibrary.org/locations/kensington" ;
+	skos:prefLabel "Kensington Library" ;
+	.
+
+nyc:Bk-kings-bay
+	a s:Library ;
+	s:address "3650 Nostrand Ave. (near Ave. W) Brooklyn, NY 11229" ;
+	s:url "https://www.bklynlibrary.org/locations/kings-bay" ;
+	skos:prefLabel "Kings Bay Library" ;
+	.
+
+nyc:Bk-kings-highway
+	a s:Library ;
+	s:address "2115 Ocean Ave. Brooklyn, NY 11229" ;
+	s:url "https://www.bklynlibrary.org/locations/kings-highway" ;
+	skos:prefLabel "Kings Highway Library" ;
+	.
+
+nyc:Bk-leonard
+	a s:Library ;
+	s:address "81 Devoe St. at Leonard St. Brooklyn, NY 11211" ;
+	s:url "https://www.bklynlibrary.org/locations/leonard" ;
+	skos:prefLabel "Leonard Library" ;
+	.
+
+nyc:Bk-macon
+	a s:Library ;
+	s:address "361 Lewis Ave. at Macon St. Brooklyn, NY 11233" ;
+	s:url "https://www.bklynlibrary.org/locations/macon" ;
+	skos:prefLabel "Macon Library" ;
+	.
+
+nyc:Bk-mapleton
+	a s:Library ;
+	s:address "1702 60th Street Brooklyn, NY 11204" ;
+	s:url "https://www.bklynlibrary.org/locations/mapleton" ;
+	skos:prefLabel "Mapleton Library" ;
+	.
+
+nyc:Bk-marcy
+	a s:Library ;
+	s:address "617 DeKalb Ave. at Nostrand Ave. Brooklyn, NY 11216" ;
+	s:url "https://www.bklynlibrary.org/locations/marcy" ;
+	skos:prefLabel "Marcy Library" ;
+	.
+
+nyc:Bk-mckinley-park
+	a s:Library ;
+	s:address "6802 Fort Hamilton Pkwy (at 68th St.) Brooklyn, NY 11219" ;
+	s:url "https://www.bklynlibrary.org/locations/mckinley-park" ;
+	skos:prefLabel "McKinley Park Library" ;
+	.
+
+nyc:Bk-midwood
+	a s:Library ;
+	s:address "975 East 16th St. at Avenue J Brooklyn, NY 11230" ;
+	s:url "https://www.bklynlibrary.org/locations/midwood" ;
+	skos:prefLabel "Midwood Library" ;
+	.
+
+nyc:Bk-mill-basin
+	a s:Library ;
+	s:address "2385 Ralph Ave (near Ave N) Brooklyn, NY 11234" ;
+	s:url "https://www.bklynlibrary.org/locations/mill-basin" ;
+	skos:prefLabel "Mill Basin Library" ;
+	.
+
+nyc:Bk-new-lots
+	a s:Library ;
+	s:address "665 New Lots Avenue at Barbey St. Brooklyn, NY 11207" ;
+	s:url "https://www.bklynlibrary.org/locations/new-lots" ;
+	skos:prefLabel "New Lots Library" ;
+	.
+
+nyc:Bk-new-utrecht
+	a s:Library ;
+	s:address "1743 86th St. at Bay 17th St. Brooklyn, NY 11214" ;
+	s:url "https://www.bklynlibrary.org/locations/new-utrecht" ;
+	skos:prefLabel "New Utrecht Library" ;
+	.
+
+nyc:Bk-pacific
+	a s:Library ;
+	s:address "25 Fourth Ave. at Pacific St. Brooklyn, NY 11217" ;
+	s:url "https://www.bklynlibrary.org/locations/pacific" ;
+	skos:prefLabel "Pacific Library" ;
+	.
+
+nyc:Bk-paerdegat
+	a s:Library ;
+	s:address "850 E. 59th St. at Paerdegat Ave. South Brooklyn, NY 11234" ;
+	s:url "https://www.bklynlibrary.org/locations/paerdegat" ;
+	skos:prefLabel "Paerdegat Library" ;
+	.
+
+nyc:Bk-park-slope
+	a s:Library ;
+	s:address "431 6th Ave Brooklyn, NY 11215" ;
+	s:url "https://www.bklynlibrary.org/locations/park-slope" ;
+	skos:prefLabel "Park Slope Library" ;
+	.
+
+nyc:Bk-red-hook
+	a s:Library ;
+	s:address "7 Wolcott St Brooklyn, NY 11231" ;
+	s:url "https://www.bklynlibrary.org/locations/red-hook" ;
+	skos:prefLabel "Red Hook Library" ;
+	.
+
+nyc:Bk-rugby
+	a s:Library ;
+	s:address "1000 Utica Ave. Brooklyn, NY 11203" ;
+	s:url "https://www.bklynlibrary.org/locations/rugby" ;
+	skos:prefLabel "Rugby Library" ;
+	.
+
+nyc:Bk-ryder
+	a s:Library ;
+	s:address "5902 23rd Ave. Brooklyn, NY 11204" ;
+	s:url "https://www.bklynlibrary.org/locations/ryder" ;
+	skos:prefLabel "Ryder Library" ;
+	.
+
+nyc:Bk-saratoga
+	a s:Library ;
+	s:address "8 Thomas S. Boyland St. at Macon St. Brooklyn, NY 11233" ;
+	s:url "https://www.bklynlibrary.org/locations/saratoga" ;
+	skos:prefLabel "Saratoga Library" ;
+	.
+
+nyc:Bk-sheepshead-bay
+	a s:Library ;
+	s:address "2636 E. 14th St. at Ave. Z Brooklyn, NY 11235" ;
+	s:url "https://www.bklynlibrary.org/locations/sheepshead-bay" ;
+	skos:prefLabel "Sheepshead Bay Library" ;
+	.
+
+nyc:Bk-spring-creek
+	a s:Library ;
+	s:address "12143 Flatlands Ave. at New Jersey Ave. Brooklyn, NY 11207" ;
+	s:url "https://www.bklynlibrary.org/locations/spring-creek" ;
+	skos:prefLabel "Spring Creek Library" ;
+	.
+
+nyc:Bk-stone-avenue
+	a s:Library ;
+	s:address "581 Mother Gaston Boulevard Brooklyn, NY 11212" ;
+	s:url "https://www.bklynlibrary.org/locations/stone-avenue" ;
+	skos:prefLabel "Stone Avenue Library" ;
+	.
+
+nyc:Bk-sunset-park
+	a s:Library ;
+	s:address "5108 Fourth Avenue Brooklyn, NY 11220" ;
+	s:url "https://www.bklynlibrary.org/locations/sunset-park" ;
+	skos:prefLabel "Sunset Park Library" ;
+	.
+
+nyc:Bk-ulmer-park
+	a s:Library ;
+	s:address "2602 Bath Avenue at 26th Ave Brooklyn, NY 11214" ;
+	s:url "https://www.bklynlibrary.org/locations/ulmer-park" ;
+	skos:prefLabel "Ulmer Park Library" ;
+	.
+
+nyc:Bk-walt-whitman
+	a s:Library ;
+	s:address "93 Saint Edwards Street Brooklyn, NY 11205" ;
+	s:url "https://www.bklynlibrary.org/locations/walt-whitman" ;
+	skos:prefLabel "Walt Whitman Library" ;
+	.
+
+nyc:Bk-washington-irving
+	a s:Library ;
+	s:address "360 Irving Ave. (at Woodbine St.) Brooklyn, NY 11237" ;
+	s:url "https://www.bklynlibrary.org/locations/washington-irving" ;
+	skos:prefLabel "Washington Irving Library" ;
+	.
+
+nyc:Bk-williamsburgh
+	a s:Library ;
+	s:address "240 Division Ave. at Marcy Ave. Brooklyn, NY 11211" ;
+	s:url "https://www.bklynlibrary.org/locations/williamsburgh" ;
+	skos:prefLabel "Williamsburgh Library" ;
+	.
+
+nyc:Bk-windsor-terrace
+	a s:Library ;
+	s:address "160 E. 5th St. at Ft. Hamilton Pkwy. Brooklyn, NY 11218" ;
+	s:url "https://www.bklynlibrary.org/locations/windsor-terrace" ;
+	skos:prefLabel "Windsor Terrace Library" ;
+	.
+
+nyc:Bx-AELL
+	a s:Library ;
+	s:address "310 East Kingsbridge Road Bronx, NY 10458" ;
+	s:url "https://www.nypl.org/locations/bronx-library-center/AELL" ;
+	skos:prefLabel "Center for Reading and Writing" ;
+	.
+
+nyc:Bx-allerton
+	a s:Library ;
+	s:address "2740 Barnes Avenue Bronx, NY 10467" ;
+	s:url "https://www.nypl.org/locations/allerton" ;
+	skos:prefLabel "Allerton Library" ;
+	.
+
+nyc:Bx-baychester
+	a s:Library ;
+	s:address "2049 Asch Loop North Bronx, NY 10475" ;
+	s:url "https://www.nypl.org/locations/baychester" ;
+	skos:prefLabel "Baychester Library" ;
+	.
+
+nyc:Bx-belmont
+	a s:Library ;
+	s:address "610 East 186th Street Bronx, NY 10458" ;
+	s:url "https://www.nypl.org/locations/belmont" ;
+	skos:prefLabel "Belmont Library and Enrico Fermi Cultural Center" ;
+	.
+
+nyc:Bx-blcchildren
+	a s:Library ;
+	s:address "310 East Kingsbridge Road Bronx, NY 10458" ;
+	s:url "https://www.nypl.org/locations/bronx-library-center/blcchildren" ;
+	skos:prefLabel "Children's Center" ;
+	.
+
+nyc:Bx-blcgcrt
+	a s:Library ;
+	s:address "310 East Kingsbridge Road Bronx, NY 10458" ;
+	s:url "https://www.nypl.org/locations/bronx-library-center/blcgcrt" ;
+	skos:prefLabel "General Collection & Reading Terrace " ;
+	.
+
+nyc:Bx-blcreference
+	a s:Library ;
+	s:address "310 East Kingsbridge Road Bronx, NY 10458" ;
+	s:url "https://www.nypl.org/locations/bronx-library-center/blcreference " ;
+	skos:prefLabel "Dr. Jay M. Gorell Reference Reading Room" ;
+	.
+
+nyc:Bx-blcteens
+	a s:Library ;
+	s:address "310 East Kingsbridge Road Bronx, NY 10458" ;
+	s:url "https://www.nypl.org/locations/bronx-library-center/blcteens" ;
+	skos:prefLabel "Teen Zone" ;
+	.
+
+nyc:Bx-bronx-library-center
+	a s:Library ;
+	s:address "310 East Kingsbridge Road Bronx, NY 10458" ;
+	s:url "https://www.nypl.org/locations/bronx-library-center" ;
+	skos:prefLabel "Bronx Library Center" ;
+	.
+
+nyc:Bx-castle-hill
+	a s:Library ;
+	s:address "947 Castle Hill Avenue Bronx, NY 10473" ;
+	s:url "https://www.nypl.org/locations/castle-hill" ;
+	skos:prefLabel "Castle Hill Library" ;
+	.
+
+nyc:Bx-city-island
+	a s:Library ;
+	s:address "320 City Island Avenue Bronx, NY 10464" ;
+	s:url "https://www.nypl.org/locations/city-island" ;
+	skos:prefLabel "City Island Library" ;
+	.
+
+nyc:Bx-clasons-point
+	a s:Library ;
+	s:address "1215 Morrison Avenue Bronx, NY 10472" ;
+	s:url "https://www.nypl.org/locations/clasons-point" ;
+	skos:prefLabel "Clason's Point Library" ;
+	.
+
+nyc:Bx-eastchester
+	a s:Library ;
+	s:address "1385 East Gun Hill Road Bronx, NY 10469" ;
+	s:url "https://www.nypl.org/locations/eastchester" ;
+	skos:prefLabel "Eastchester Library" ;
+	.
+
+nyc:Bx-edenwald
+	a s:Library ;
+	s:address "1255 East 233rd Street Bronx, NY 10466" ;
+	s:url "https://www.nypl.org/locations/edenwald" ;
+	skos:prefLabel "Edenwald Library" ;
+	.
+
+nyc:Bx-francis-martin
+	a s:Library ;
+	s:address "2150 University Avenue Bronx, NY 10453" ;
+	s:url "https://www.nypl.org/locations/francis-martin" ;
+	skos:prefLabel "Francis Martin Library" ;
+	.
+
+nyc:Bx-grand-concourse
+	a s:Library ;
+	s:address "155 East 173rd Street Bronx, NY 10457" ;
+	s:url "https://www.nypl.org/locations/grand-concourse" ;
+	skos:prefLabel "Grand Concourse Library" ;
+	.
+
+nyc:Bx-high-bridge
+	a s:Library ;
+	s:address "78 West 168th Street Bronx, NY 10452" ;
+	s:url "https://www.nypl.org/locations/high-bridge" ;
+	skos:prefLabel "High Bridge Library" ;
+	.
+
+nyc:Bx-hunts-point
+	a s:Library ;
+	s:address "877 Southern Boulevard Bronx, NY 10459" ;
+	s:url "https://www.nypl.org/locations/hunts-point" ;
+	skos:prefLabel "Hunts Point Library" ;
+	.
+
+nyc:Bx-jerome-park
+	a s:Library ;
+	s:address "118 Eames Place Bronx, NY 10468" ;
+	s:url "https://www.nypl.org/locations/jerome-park" ;
+	skos:prefLabel "Jerome Park Library" ;
+	.
+
+nyc:Bx-kingsbridge
+	a s:Library ;
+	s:address "291 West 231st Street Bronx, NY 10463" ;
+	s:url "https://www.nypl.org/locations/kingsbridge" ;
+	skos:prefLabel "Kingsbridge Library" ;
+	.
+
+nyc:Bx-melrose
+	a s:Library ;
+	s:address "910 Morris Avenue Bronx, NY 10451" ;
+	s:url "https://www.nypl.org/locations/melrose" ;
+	skos:prefLabel "Melrose Library" ;
+	.
+
+nyc:Bx-morris-park
+	a s:Library ;
+	s:address "985 Morris Park Avenue Bronx, NY 10462" ;
+	s:url "https://www.nypl.org/locations/morris-park" ;
+	skos:prefLabel "Morris Park Library" ;
+	.
+
+nyc:Bx-morrisania
+	a s:Library ;
+	s:address "610 East 169th Street Bronx, NY 10456" ;
+	s:url "https://www.nypl.org/locations/morrisania" ;
+	skos:prefLabel "Morrisania Library" ;
+	.
+
+nyc:Bx-mosholu
+	a s:Library ;
+	s:address "285 East 205th Street Bronx, NY 10467" ;
+	s:url "https://www.nypl.org/locations/mosholu" ;
+	skos:prefLabel "Mosholu Library" ;
+	.
+
+nyc:Bx-mott-haven
+	a s:Library ;
+	s:address "321 East 140th Street Bronx, NY 10454" ;
+	s:url "https://www.nypl.org/locations/mott-haven" ;
+	skos:prefLabel "Mott Haven Library" ;
+	.
+
+nyc:Bx-parkchester
+	a s:Library ;
+	s:address "1985 Westchester Avenue Bronx, NY 10462" ;
+	s:url "https://www.nypl.org/locations/parkchester" ;
+	skos:prefLabel "Parkchester Library" ;
+	.
+
+nyc:Bx-pelham-bay
+	a s:Library ;
+	s:address "3060 Middletown Road Bronx, NY 10461" ;
+	s:url "https://www.nypl.org/locations/pelham-bay" ;
+	skos:prefLabel "Pelham Bay Library" ;
+	.
+
+nyc:Bx-pelham-parkway-van-nest
+	a s:Library ;
+	s:address "2147 Barnes Avenue Bronx, NY 10462" ;
+	s:url "https://www.nypl.org/locations/pelham-parkway-van-nest" ;
+	skos:prefLabel "Pelham Parkway-Van Nest Library" ;
+	.
+
+nyc:Bx-riverdale
+	a s:Library ;
+	s:address "5540 Mosholu Avenue Bronx, NY 10471" ;
+	s:url "https://www.nypl.org/locations/riverdale" ;
+	skos:prefLabel "Riverdale Library" ;
+	.
+
+nyc:Bx-sedgwick
+	a s:Library ;
+	s:address "1701 Martin Luther King, Jr. Blvd. Bronx, NY 10453" ;
+	s:url "https://www.nypl.org/locations/sedgwick" ;
+	skos:prefLabel "Sedgwick Library" ;
+	.
+
+nyc:Bx-soundview
+	a s:Library ;
+	s:address "660 Soundview Avenue Bronx, NY 10473" ;
+	s:url "https://www.nypl.org/locations/soundview" ;
+	skos:prefLabel "Soundview Library" ;
+	.
+
+nyc:Bx-spuyten-duyvil
+	a s:Library ;
+	s:address "650 W. 235th St. Bronx, NY 10463" ;
+	s:url "https://www.nypl.org/locations/spuyten-duyvil" ;
+	skos:prefLabel "Spuyten Duyvil Library" ;
+	.
+
+nyc:Bx-throgs-neck
+	a s:Library ;
+	s:address "3025 Cross Bronx Expressway Bronx, NY 10465" ;
+	s:url "https://www.nypl.org/locations/throgs-neck" ;
+	skos:prefLabel "Throg's Neck Library" ;
+	.
+
+nyc:Bx-tremont
+	a s:Library ;
+	s:address "1866 Washington Avenue Bronx, NY 10457" ;
+	s:url "https://www.nypl.org/locations/tremont" ;
+	skos:prefLabel "Tremont Library" ;
+	.
+
+nyc:Bx-van-cortlandt
+	a s:Library ;
+	s:address "3882 Cannon Place Bronx, NY 10463" ;
+	s:url "https://www.nypl.org/locations/van-cortlandt" ;
+	skos:prefLabel "Van Cortlandt Library, Arline Schwarzman Building" ;
+	.
+
+nyc:Bx-wakefield
+	a s:Library ;
+	s:address "4100 Lowerre Place Bronx, NY 10466" ;
+	s:url "https://www.nypl.org/locations/wakefield" ;
+	skos:prefLabel "Wakefield Library" ;
+	.
+
+nyc:Bx-west-farms
+	a s:Library ;
+	s:address "2085 Honeywell Avenue Bronx, NY 10460" ;
+	s:url "https://www.nypl.org/locations/west-farms" ;
+	skos:prefLabel "West Farms Library" ;
+	.
+
+nyc:Bx-westchester-square
+	a s:Library ;
+	s:address "2521 Glebe Avenue Bronx, NY 10461" ;
+	s:url "https://www.nypl.org/locations/westchester-square" ;
+	skos:prefLabel "Westchester Square Library" ;
+	.
+
+nyc:Bx-woodlawn-heights
+	a s:Library ;
+	s:address "4355 Katonah Avenue Bronx, NY 10470" ;
+	s:url "https://www.nypl.org/locations/woodlawn-heights" ;
+	skos:prefLabel "Woodlawn Heights Library" ;
+	.
+
+nyc:Bx-woodstock
+	a s:Library ;
+	s:address "761 East 160th Street Bronx, NY 10456" ;
+	s:url "https://www.nypl.org/locations/woodstock" ;
+	skos:prefLabel "Woodstock Library" ;
+	.
+
+nyc:M-115th-street
+	a s:Library ;
+	s:address "203 West 115th Street New York, NY 10026" ;
+	s:url "https://www.nypl.org/locations/115th-street" ;
+	skos:prefLabel "Harry Belafonte 115th Street Library" ;
+	.
+
+nyc:M-125th-street
+	a s:Library ;
+	s:address "224 East 125th Street New York, NY 10035" ;
+	s:url "https://www.nypl.org/locations/125th-street" ;
+	skos:prefLabel "125th Street Library" ;
+	.
+
+nyc:M-53rd-street
+	a s:Library ;
+	s:address "18 West 53rd Street New York, NY 10019" ;
+	s:url "https://www.nypl.org/locations/53rd-street" ;
+	skos:prefLabel "53rd Street Library" ;
+	.
+
+nyc:M-58th-street
+	a s:Library ;
+	s:address "127 East 58th Street New York, NY 10022" ;
+	s:url "https://www.nypl.org/locations/58th-street" ;
+	skos:prefLabel "58th Street Library" ;
+	.
+
+nyc:M-67th-street
+	a s:Library ;
+	s:address "328 East 67th Street New York, NY 10065" ;
+	s:url "https://www.nypl.org/locations/67th-street" ;
+	skos:prefLabel "67th Street Library" ;
+	.
+
+nyc:M-96th-street
+	a s:Library ;
+	s:address "112 East 96th Street New York, NY 10128" ;
+	s:url "https://www.nypl.org/locations/96th-street" ;
+	skos:prefLabel "96th Street Library" ;
+	.
+
+nyc:M-aguilar
+	a s:Library ;
+	s:address "174 East 110th Street New York, NY 10029" ;
+	s:url "https://www.nypl.org/locations/aguilar" ;
+	skos:prefLabel "Aguilar Library" ;
+	.
+
+nyc:M-arents-collection
+	a s:Library ;
+	s:address "Fifth Avenue and 42nd Street New York, NY 10018" ;
+	s:url "https://www.nypl.org/locations/divisions/arents-collection" ;
+	skos:prefLabel "George Arents Collection" ;
+	.
+
+nyc:M-art-and-artifacts-division
+	a s:Library ;
+	s:address "515 Malcolm X Boulevard (135th St and Malcolm X Blvd) New York, NY 10037" ;
+	s:url "https://www.nypl.org/locations/divisions/art-and-artifacts-division" ;
+	skos:prefLabel "Art and Artifacts Division" ;
+	.
+
+nyc:M-art-architecture-collection
+	a s:Library ;
+	s:address "Fifth Avenue and 42nd Street New York, NY 10018" ;
+	s:url "https://www.nypl.org/locations/divisions/art-architecture-collection" ;
+	skos:prefLabel "Art & Architecture Collection" ;
+	.
+
+nyc:M-battery-park-city
+	a s:Library ;
+	s:address "175 North End Avenue New York, NY 10282" ;
+	s:url "https://www.nypl.org/locations/battery-park-city" ;
+	skos:prefLabel "Battery Park City Library" ;
+	.
+
+nyc:M-berg-collection-english-and-american-literature
+	a s:Library ;
+	s:address "Fifth Avenue and 42nd Street New York, NY 10018" ;
+	s:url "https://www.nypl.org/locations/divisions/berg-collection-english-and-american-literature" ;
+	skos:prefLabel "Henry W. and Albert A. Berg Collection of English and American Literature" ;
+	.
+
+nyc:M-billy-rose-theatre-division
+	a s:Library ;
+	s:address "40 Lincoln Center Plaza (entrance at 111 Amsterdam between 64th and 65th) New York, NY 10023" ;
+	s:url "https://www.nypl.org/locations/divisions/billy-rose-theatre-division" ;
+	skos:prefLabel "Billy Rose Theatre Division" ;
+	.
+
+nyc:M-bloomingdale
+	a s:Library ;
+	s:address "150 West 100th Street New York, NY 10025" ;
+	s:url "https://www.nypl.org/locations/bloomingdale" ;
+	skos:prefLabel "Bloomingdale Library" ;
+	.
+
+nyc:M-business
+	a s:Library ;
+	s:address "455 Fifth Avenue New York, NY 10016" ;
+	s:url "https://www.nypl.org/locations/snfl/business" ;
+	skos:prefLabel "Thomas Yoseloff Business Center" ;
+	.
+
+nyc:M-cathedral
+	a s:Library ;
+	s:address "560 Lexington Avenue New York, NY 10022" ;
+	s:url "https://www.nypl.org/locations/cathedral" ;
+	skos:prefLabel "Terence Cardinal Cooke-Cathedral Library" ;
+	.
+
+nyc:M-center-research-humanities
+	a s:Library ;
+	s:address "Fifth Avenue and 42nd Street New York, NY 10018" ;
+	s:url "https://www.nypl.org/locations/schwarzman/center-research-humanities" ;
+	skos:prefLabel "Vartan Gregorian Center for Research in the Humanities" ;
+	.
+
+nyc:M-chatham-square
+	a s:Library ;
+	s:address "33 East Broadway New York, NY 10002" ;
+	s:url "https://www.nypl.org/locations/chatham-square" ;
+	skos:prefLabel "Chatham Square Library" ;
+	.
+
+nyc:M-childrens
+	a s:Library ;
+	s:address "455 Fifth Avenue New York, NY 10016" ;
+	s:url "https://www.nypl.org/locations/snfl/childrens" ;
+	skos:prefLabel "Children's Center" ;
+	.
+
+nyc:M-columbus
+	a s:Library ;
+	s:address "742 10th Avenue New York, NY 10019" ;
+	s:url "https://www.nypl.org/locations/columbus" ;
+	skos:prefLabel "Columbus Library " ;
+	.
+
+nyc:M-countee-cullen
+	a s:Library ;
+	s:address "104 West 136th Street New York, NY 10030" ;
+	s:url "https://www.nypl.org/locations/countee-cullen" ;
+	skos:prefLabel "Countee Cullen Library" ;
+	.
+
+nyc:M-epiphany
+	a s:Library ;
+	s:address "228 East 23rd Street New York, NY 10010" ;
+	s:url "https://www.nypl.org/locations/epiphany" ;
+	skos:prefLabel "Epiphany Library" ;
+	.
+
+nyc:M-event-center
+	a s:Library ;
+	s:address "455 Fifth Avenue New York, NY 10016" ;
+	s:url "https://www.nypl.org/locations/snfl/event-center" ;
+	skos:prefLabel "Event Center & Rooftop Terrace" ;
+	.
+
+nyc:M-fort-washington
+	a s:Library ;
+	s:address "535 West 179th Street New York, NY 10033" ;
+	s:url "https://www.nypl.org/locations/fort-washington" ;
+	skos:prefLabel "Fort Washington Library" ;
+	.
+
+nyc:M-general-research-division
+	a s:Library ;
+	s:address "Fifth Avenue and 42nd Street New York, NY 10018" ;
+	s:url "https://www.nypl.org/locations/divisions/general-research-division" ;
+	skos:prefLabel "General Research Division" ;
+	.
+
+nyc:M-george-bruce
+	a s:Library ;
+	s:address "518 West 125th Street New York, NY 10027" ;
+	s:url "https://www.nypl.org/locations/george-bruce" ;
+	skos:prefLabel "George Bruce Library" ;
+	.
+
+nyc:M-grand-central
+	a s:Library ;
+	s:address "135 East 46th Street  New York, NY 10017" ;
+	s:url "https://www.nypl.org/locations/grand-central" ;
+	skos:prefLabel "Grand Central Library" ;
+	.
+
+nyc:M-hamilton-fish-park
+	a s:Library ;
+	s:address "415 East Houston Street New York, NY 10002" ;
+	s:url "https://www.nypl.org/locations/hamilton-fish-park" ;
+	skos:prefLabel "Hamilton Fish Park Library" ;
+	.
+
+nyc:M-hamilton-grange
+	a s:Library ;
+	s:address "503 West 145th Street New York, NY 10031" ;
+	s:url "https://www.nypl.org/locations/hamilton-grange" ;
+	skos:prefLabel "Hamilton Grange Library" ;
+	.
+
+nyc:M-harlem
+	a s:Library ;
+	s:address "9 West 124th Street New York, NY 10027" ;
+	s:url "https://www.nypl.org/locations/harlem" ;
+	skos:prefLabel "Harlem Library" ;
+	.
+
+nyc:M-heiskell
+	a s:Library ;
+	s:address "40 West 20th Street New York, NY 10011" ;
+	s:url "https://www.nypl.org/locations/heiskell" ;
+	skos:prefLabel "Andrew Heiskell Braille and Talking Book Library" ;
+	.
+
+nyc:M-hudson-park
+	a s:Library ;
+	s:address "66 Leroy Street New York, NY 10014" ;
+	s:url "https://www.nypl.org/locations/hudson-park" ;
+	skos:prefLabel "Hudson Park Library" ;
+	.
+
+nyc:M-inwood
+	a s:Library ;
+	s:address "4857 Broadway New York, NY 10034" ;
+	s:url "https://www.nypl.org/locations/inwood" ;
+	skos:prefLabel "Inwood Library" ;
+	.
+
+nyc:M-jbh-research-and-reference-division
+	a s:Library ;
+	s:address "515 Malcolm X Boulevard (135th St and Malcolm X Blvd) New York, NY 10037" ;
+	s:url "https://www.nypl.org/locations/divisions/jbh-research-and-reference-division" ;
+	skos:prefLabel "Jean Blackwell Hutson Research and Reference Division" ;
+	.
+
+nyc:M-jefferson-market
+	a s:Library ;
+	s:address "425 Avenue of the Americas New York, NY 10011" ;
+	s:url "https://www.nypl.org/locations/jefferson-market" ;
+	skos:prefLabel "Jefferson Market Library" ;
+	.
+
+nyc:M-jerome-robbins-dance-division
+	a s:Library ;
+	s:address "40 Lincoln Center Plaza (entrance at 111 Amsterdam between 64th and 65th) New York, NY 10023" ;
+	s:url "https://www.nypl.org/locations/divisions/jerome-robbins-dance-division" ;
+	skos:prefLabel "Jerome Robbins Dance Division" ;
+	.
+
+nyc:M-jewish-division
+	a s:Library ;
+	s:address "Fifth Avenue and 42nd Street New York, NY 10018" ;
+	s:url "https://www.nypl.org/locations/divisions/jewish-division" ;
+	skos:prefLabel "Dorot Jewish Division" ;
+	.
+
+nyc:M-kips-bay
+	a s:Library ;
+	s:address "446 Third Avenue New York, NY 10016" ;
+	s:url "https://www.nypl.org/locations/kips-bay" ;
+	skos:prefLabel "Kips Bay Library" ;
+	.
+
+nyc:M-lpa
+	a s:Library ;
+	s:address "40 Lincoln Center Plaza (entrance at 111 Amsterdam between 64th and 65th) New York, NY 10023" ;
+	s:url "https://www.nypl.org/locations/lpa" ;
+	skos:prefLabel "The New York Public Library for the Performing Arts" ;
+	.
+
+nyc:M-macombs-bridge
+	a s:Library ;
+	s:address "2633 Adam Clayton Powell, Jr. Blvd. New York, NY 10039" ;
+	s:url "https://www.nypl.org/locations/macombs-bridge" ;
+	skos:prefLabel "Macomb's Bridge Library" ;
+	.
+
+nyc:M-manuscripts-archives-and-rare-books-division
+	a s:Library ;
+	s:address "515 Malcolm X Boulevard (135th St and Malcolm X Blvd) New York, NY 10037" ;
+	s:url "https://www.nypl.org/locations/divisions/manuscripts-archives-and-rare-books-division" ;
+	skos:prefLabel "Manuscripts, Archives and Rare Books Division" ;
+	.
+
+nyc:M-manuscripts-division
+	a s:Library ;
+	s:address "Fifth Avenue and 42nd Street New York, NY 10018" ;
+	s:url "https://www.nypl.org/locations/divisions/manuscripts-division" ;
+	skos:prefLabel "Manuscripts and Archives Division" ;
+	.
+
+nyc:M-map-division
+	a s:Library ;
+	s:address "Fifth Avenue and 42nd Street New York, NY 10018" ;
+	s:url "https://www.nypl.org/locations/divisions/map-division" ;
+	skos:prefLabel "Lionel Pincus and Princess Firyal Map Division" ;
+	.
+
+nyc:M-marron-circulating
+	a s:Library ;
+	s:address "455 Fifth Avenue New York, NY 10016" ;
+	s:url "https://www.nypl.org/locations/snfl/marron-circulating" ;
+	skos:prefLabel "Marron Family Circulating Collections" ;
+	.
+
+nyc:M-milstein
+	a s:Library ;
+	s:address "Fifth Avenue and 42nd Street New York, NY 10018" ;
+	s:url "https://www.nypl.org/locations/divisions/milstein" ;
+	skos:prefLabel "Irma and Paul Milstein Division of United States History, Local History and Genealogy" ;
+	.
+
+nyc:M-morningside-heights
+	a s:Library ;
+	s:address "2900 Broadway New York, NY 10025" ;
+	s:url "https://www.nypl.org/locations/morningside-heights" ;
+	skos:prefLabel "Morningside Heights Library" ;
+	.
+
+nyc:M-moving-image-and-recorded-sound-division
+	a s:Library ;
+	s:address "515 Malcolm X Boulevard (135th St and Malcolm X Blvd) New York, NY 10037" ;
+	s:url "https://www.nypl.org/locations/divisions/moving-image-and-recorded-sound-division" ;
+	skos:prefLabel "Moving Image and Recorded Sound Division" ;
+	.
+
+nyc:M-muhlenberg
+	a s:Library ;
+	s:address "209 West 23rd Street New York, NY 10011" ;
+	s:url "https://www.nypl.org/locations/muhlenberg" ;
+	skos:prefLabel "Muhlenberg Library" ;
+	.
+
+nyc:M-mulberry-street
+	a s:Library ;
+	s:address "10 Jersey Street New York, NY 10012" ;
+	s:url "https://www.nypl.org/locations/mulberry-street" ;
+	skos:prefLabel "Mulberry Street Library" ;
+	.
+
+nyc:M-music-division
+	a s:Library ;
+	s:address "40 Lincoln Center Plaza (entrance at 111 Amsterdam between 64th and 65th) New York, NY 10023" ;
+	s:url "https://www.nypl.org/locations/divisions/music-division" ;
+	skos:prefLabel "Music Division" ;
+	.
+
+nyc:M-new-amsterdam
+	a s:Library ;
+	s:address "9 Murray Street New York, NY 10007" ;
+	s:url "https://www.nypl.org/locations/new-amsterdam" ;
+	skos:prefLabel "New Amsterdam Library" ;
+	.
+
+nyc:M-ottendorfer
+	a s:Library ;
+	s:address "135 Second Avenue New York, NY 10003" ;
+	s:url "https://www.nypl.org/locations/ottendorfer" ;
+	skos:prefLabel "Ottendorfer Library" ;
+	.
+
+nyc:M-pasculano-learning
+	a s:Library ;
+	s:address "455 Fifth Avenue New York, NY 10016" ;
+	s:url "https://www.nypl.org/locations/snfl/pasculano-learning" ;
+	skos:prefLabel "Pasculano Learning Center" ;
+	.
+
+nyc:M-periodicals-room
+	a s:Library ;
+	s:address "Fifth Avenue and 42nd Street New York, NY 10018" ;
+	s:url "https://www.nypl.org/locations/divisions/periodicals-room" ;
+	skos:prefLabel "DeWitt Wallace Periodical Room" ;
+	.
+
+nyc:M-pforzheimer-collection-shelley-and-his-circle
+	a s:Library ;
+	s:address "Fifth Avenue and 42nd Street New York, NY 10018" ;
+	s:url "https://www.nypl.org/locations/divisions/pforzheimer-collection-shelley-and-his-circle" ;
+	skos:prefLabel "Carl H. Pforzheimer Collection of Shelley and His Circle" ;
+	.
+
+nyc:M-photographs-and-prints-division
+	a s:Library ;
+	s:address "515 Malcolm X Boulevard (135th St and Malcolm X Blvd) New York, NY 10037" ;
+	s:url "https://www.nypl.org/locations/divisions/photographs-and-prints-division" ;
+	skos:prefLabel "Photographs and Prints Division" ;
+	.
+
+nyc:M-photography-collection
+	a s:Library ;
+	s:address "Fifth Avenue and 42nd Street New York, NY 10018" ;
+	s:url "https://www.nypl.org/locations/divisions/photography-collection" ;
+	skos:prefLabel "Photography Collection" ;
+	.
+
+nyc:M-picture-collection
+	a s:Library ;
+	s:address "Fifth Avenue and 42nd Street New York, NY 10018" ;
+	s:url "https://www.nypl.org/locations/divisions/picture-collection" ;
+	skos:prefLabel "Picture Collection" ;
+	.
+
+nyc:M-print-collection
+	a s:Library ;
+	s:address "Fifth Avenue and 42nd Street New York, NY 10018" ;
+	s:url "https://www.nypl.org/locations/divisions/print-collection" ;
+	skos:prefLabel "Print Collection" ;
+	.
+
+nyc:M-rare-books-division
+	a s:Library ;
+	s:address "Fifth Avenue and 42nd Street New York, NY 10018" ;
+	s:url "https://www.nypl.org/locations/divisions/rare-books-division" ;
+	skos:prefLabel "Rare Book Division" ;
+	.
+
+nyc:M-riverside
+	a s:Library ;
+	s:address "127 Amsterdam Avenue New York, NY 10023" ;
+	s:url "https://www.nypl.org/locations/riverside" ;
+	skos:prefLabel "Riverside Library" ;
+	.
+
+nyc:M-rodgers-and-hammerstein-archives-recorded-sound
+	a s:Library ;
+	s:address "40 Lincoln Center Plaza (entrance at 111 Amsterdam between 64th and 65th) New York, NY 10023" ;
+	s:url "https://www.nypl.org/locations/divisions/rodgers-and-hammerstein-archives-recorded-sound" ;
+	skos:prefLabel "The Rodgers and Hammerstein Archives of Recorded Sound" ;
+	.
+
+nyc:M-roosevelt-island
+	a s:Library ;
+	s:address "504 Main Street New York, NY 10044" ;
+	s:url "https://www.nypl.org/locations/roosevelt-island" ;
+	skos:prefLabel "Roosevelt Island Library" ;
+	.
+
+nyc:M-schomburg
+	a s:Library ;
+	s:address "515 Malcolm X Boulevard (135th St and Malcolm X Blvd) New York, NY 10037" ;
+	s:url "https://www.nypl.org/locations/schomburg" ;
+	skos:prefLabel "Schomburg Center for Research in Black Culture" ;
+	.
+
+nyc:M-schwarzman
+	a s:Library ;
+	s:address "Fifth Avenue and 42nd Street New York, NY 10018" ;
+	s:url "https://www.nypl.org/locations/schwarzman" ;
+	skos:prefLabel "Stephen A. Schwarzman Building" ;
+	.
+
+nyc:M-seward-park
+	a s:Library ;
+	s:address "192 East Broadway New York, NY 10002" ;
+	s:url "https://www.nypl.org/locations/seward-park" ;
+	skos:prefLabel "Seward Park Library" ;
+	.
+
+nyc:M-snfl
+	a s:Library ;
+	s:address "455 Fifth Avenue New York, NY 10016" ;
+	s:url "https://www.nypl.org/locations/snfl" ;
+	skos:prefLabel "Stavros Niarchos Foundation Library (SNFL)" ;
+	.
+
+nyc:M-spencer-collection
+	a s:Library ;
+	s:address "Fifth Avenue and 42nd Street New York, NY 10018" ;
+	s:url "https://www.nypl.org/locations/divisions/spencer-collection" ;
+	skos:prefLabel "Spencer Collection" ;
+	.
+
+nyc:M-st-agnes
+	a s:Library ;
+	s:address "444 Amsterdam Avenue (between West 81st and West 82nd Streets)  New York, NY 10024" ;
+	s:url "https://www.nypl.org/locations/st-agnes" ;
+	skos:prefLabel "St. Agnes Library" ;
+	.
+
+nyc:M-teen
+	a s:Library ;
+	s:address "455 Fifth Avenue New York, NY 10016" ;
+	s:url "https://www.nypl.org/locations/snfl/teen" ;
+	skos:prefLabel "Teen Center" ;
+	.
+
+nyc:M-theatre-film-and-tape-archive
+	a s:Library ;
+	s:address "40 Lincoln Center Plaza (entrance at 111 Amsterdam between 64th and 65th) New York, NY 10023" ;
+	s:url "https://www.nypl.org/locations/divisions/theatre-film-and-tape-archive" ;
+	skos:prefLabel "Theatre on Film and Tape Archive" ;
+	.
+
+nyc:M-tompkins-square
+	a s:Library ;
+	s:address "331 East 10th Street New York, NY 10009" ;
+	s:url "https://www.nypl.org/locations/tompkins-square" ;
+	skos:prefLabel "Tompkins Square Library" ;
+	.
+
+nyc:M-visitor-center
+	a s:Library ;
+	s:address "Fifth Avenue and 42nd Street New York, NY 10018" ;
+	s:url "https://www.nypl.org/locations/schwarzman/visitor-center" ;
+	skos:prefLabel "Visitor Center" ;
+	.
+
+nyc:M-wallach-division
+	a s:Library ;
+	s:address "Fifth Avenue and 42nd Street New York, NY 10018" ;
+	s:url "https://www.nypl.org/locations/divisions/wallach-division" ;
+	skos:prefLabel "The Miriam and Ira D. Wallach Division of Art, Prints and Photographs" ;
+	.
+
+nyc:M-washington-heights
+	a s:Library ;
+	s:address "1000 St. Nicholas Avenue New York, NY 10032" ;
+	s:url "https://www.nypl.org/locations/washington-heights" ;
+	skos:prefLabel "Washington Heights Library" ;
+	.
+
+nyc:M-webster
+	a s:Library ;
+	s:address "1465 York Avenue New York, NY 10075" ;
+	s:url "https://www.nypl.org/locations/webster" ;
+	skos:prefLabel "Webster Library" ;
+	.
+
+nyc:M-yorkville
+	a s:Library ;
+	s:address "222 East 79th Street New York, NY 10075" ;
+	s:url "https://www.nypl.org/locations/yorkville" ;
+	skos:prefLabel "Yorkville Library" ;
+	.
+
+nyc:Q-arverne
+	a s:Library ;
+	s:address "312 Beach 54 Street Arverne, NY 11692" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/arverne" ;
+	skos:prefLabel "Arverne" ;
+	.
+
+nyc:Q-astoria
+	a s:Library ;
+	s:address "14-01 Astoria Boulevard Astoria, NY 11102" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/astoria" ;
+	skos:prefLabel "Astoria" ;
+	.
+
+nyc:Q-auburndale
+	a s:Library ;
+	s:address "25-55 Francis Lewis Boulevard Flushing, NY 11358" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/auburndale" ;
+	skos:prefLabel "Auburndale" ;
+	.
+
+nyc:Q-baisley-park
+	a s:Library ;
+	s:address "117-11 Sutphin Boulevard Jamaica, NY 11436" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/baisley-park" ;
+	skos:prefLabel "Baisley Park" ;
+	.
+
+nyc:Q-bay-terrace
+	a s:Library ;
+	s:address "18-36 Bell Boulevard Bayside, NY 11360" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/bay-terrace" ;
+	skos:prefLabel "Bay Terrace" ;
+	.
+
+nyc:Q-bayside
+	a s:Library ;
+	s:address "214-20 Northern Boulevard Bayside, NY 11361" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/bayside" ;
+	skos:prefLabel "Bayside" ;
+	.
+
+nyc:Q-bellerose
+	a s:Library ;
+	s:address "250-06 Hillside Avenue Bellerose, NY 11426" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/bellerose" ;
+	skos:prefLabel "Bellerose" ;
+	.
+
+nyc:Q-briarwood
+	a s:Library ;
+	s:address "85-12 Main Street Briarwood, NY 11435" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/briarwood" ;
+	skos:prefLabel "Briarwood" ;
+	.
+
+nyc:Q-broad-channel
+	a s:Library ;
+	s:address "16-26 Cross Bay Boulevard Broad Channel, NY 11693" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/broad-channel" ;
+	skos:prefLabel "Broad Channel" ;
+	.
+
+nyc:Q-broadway
+	a s:Library ;
+	s:address "40-20 Broadway Astoria, NY 11103" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/broadway" ;
+	skos:prefLabel "Broadway" ;
+	.
+
+nyc:Q-cambria-heights
+	a s:Library ;
+	s:address "218-13 Linden Boulevard Cambria Heights, NY 11411" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/cambria-heights" ;
+	skos:prefLabel "Cambria Heights" ;
+	.
+
+nyc:Q-central-library
+	a s:Library ;
+	s:address "89-11 Merrick Boulevard Jamaica, NY 11432" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/central-library" ;
+	skos:prefLabel "Central Library" ;
+	.
+
+nyc:Q-corona
+	a s:Library ;
+	s:address "38-23 104 Street Corona, NY 11368" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/corona" ;
+	skos:prefLabel "Corona" ;
+	.
+
+nyc:Q-court-square
+	a s:Library ;
+	s:address "25-01 Jackson Avenue Long Island City, NY 11101" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/court-square" ;
+	skos:prefLabel "Court Square" ;
+	.
+
+nyc:Q-douglaston
+	a s:Library ;
+	s:address "249-01 Northern Boulevard Little Neck, NY 11363" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/douglaston" ;
+	skos:prefLabel "Douglaston/Little Neck" ;
+	.
+
+nyc:Q-east-elmhurst
+	a s:Library ;
+	s:address "95-06 Astoria Boulevard East Elmhurst, NY 11369" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/east-elmhurst" ;
+	skos:prefLabel "East Elmhurst" ;
+	.
+
+nyc:Q-east-flushing
+	a s:Library ;
+	s:address "196-36 Northern Boulevard Flushing, NY 11358" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/east-flushing" ;
+	skos:prefLabel "East Flushing" ;
+	.
+
+nyc:Q-elmhurst
+	a s:Library ;
+	s:address "86-07 Broadway Elmhurst, NY 11373" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/elmhurst" ;
+	skos:prefLabel "Elmhurst" ;
+	.
+
+nyc:Q-far-rockaway
+	a s:Library ;
+	s:address "1003 Beach 20th Street Far Rockaway, NY 11691" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/far-rockaway" ;
+	skos:prefLabel "Far Rockaway" ;
+	.
+
+nyc:Q-far-rockaway-teen
+	a s:Library ;
+	s:address "2002 Cornaga Avenue Far Rockaway, NY 11691" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/far-rockaway-teen" ;
+	skos:prefLabel "Far Rockaway Teen Library" ;
+	.
+
+nyc:Q-flushing
+	a s:Library ;
+	s:address "41-17 Main Street Flushing, NY 11355" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/flushing" ;
+	skos:prefLabel "Flushing" ;
+	.
+
+nyc:Q-forest-hills
+	a s:Library ;
+	s:address "108-19 71 Avenue Forest Hills, NY 11375" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/forest-hills" ;
+	skos:prefLabel "Forest Hills" ;
+	.
+
+nyc:Q-fresh-meadows
+	a s:Library ;
+	s:address "193-20 Horace Harding Expressway Fresh Meadows, NY 11365" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/fresh-meadows" ;
+	skos:prefLabel "Fresh Meadows" ;
+	.
+
+nyc:Q-glen-oaks
+	a s:Library ;
+	s:address "256-04 Union Turnpike Glen Oaks, NY 11004" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/glen-oaks" ;
+	skos:prefLabel "Glen Oaks" ;
+	.
+
+nyc:Q-glendale
+	a s:Library ;
+	s:address "78-60 73 Place Glendale, NY 11385" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/glendale" ;
+	skos:prefLabel "Glendale" ;
+	.
+
+nyc:Q-hillcrest
+	a s:Library ;
+	s:address "187-05 Union Turnpike Flushing, NY 11366" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/hillcrest" ;
+	skos:prefLabel "Hillcrest" ;
+	.
+
+nyc:Q-hollis
+	a s:Library ;
+	s:address "202-05 Hillside Avenue Hollis, NY 11423" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/hollis" ;
+	skos:prefLabel "Hollis" ;
+	.
+
+nyc:Q-howard-beach
+	a s:Library ;
+	s:address "92-06 156 Avenue Howard Beach, NY 11414" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/howard-beach" ;
+	skos:prefLabel "Howard Beach" ;
+	.
+
+nyc:Q-hunters-point
+	a s:Library ;
+	s:address "47-40 Center Boulevard Long Island City, NY 11109" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/hunters-point" ;
+	skos:prefLabel "Hunters Point" ;
+	.
+
+nyc:Q-jackson-heights
+	a s:Library ;
+	s:address "35-51 81 Street Jackson Heights, NY 11372" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/jackson-heights" ;
+	skos:prefLabel "Jackson Heights" ;
+	.
+
+nyc:Q-kew-gardens-hills
+	a s:Library ;
+	s:address "72-33 Vleigh Place Flushing, NY 11367" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/kew-gardens-hills" ;
+	skos:prefLabel "Kew Gardens Hills" ;
+	.
+
+nyc:Q-langston-hughes
+	a s:Library ;
+	s:address "100-01 Northern Boulevard Corona, NY 11368" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/langston-hughes" ;
+	skos:prefLabel "Langston Hughes" ;
+	.
+
+nyc:Q-laurelton
+	a s:Library ;
+	s:address "134-26 225 Street Laurelton, NY 11413" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/laurelton" ;
+	skos:prefLabel "Laurelton" ;
+	.
+
+nyc:Q-lefferts
+	a s:Library ;
+	s:address "103-34 Lefferts Boulevard Richmond Hill, NY 11419" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/lefferts" ;
+	skos:prefLabel "Lefferts" ;
+	.
+
+nyc:Q-lefrak-city
+	a s:Library ;
+	s:address "98-30 57 Avenue Corona, NY 11368" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/lefrak-city" ;
+	skos:prefLabel "Lefrak City" ;
+	.
+
+nyc:Q-long-island-city
+	a s:Library ;
+	s:address "37-44 21 Street Long Island City, NY 11101" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/long-island-city" ;
+	skos:prefLabel "Long Island City" ;
+	.
+
+nyc:Q-maspeth
+	a s:Library ;
+	s:address "69-70 Grand Avenue Maspeth, NY 11378" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/maspeth" ;
+	skos:prefLabel "Maspeth" ;
+	.
+
+nyc:Q-mcgoldrick
+	a s:Library ;
+	s:address "155-06 Roosevelt Avenue Flushing, NY 11354" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/mcgoldrick" ;
+	skos:prefLabel "McGoldrick" ;
+	.
+
+nyc:Q-middle-village
+	a s:Library ;
+	s:address "72-31 Metropolitan Avenue Middle Village, NY 11379" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/middle-village" ;
+	skos:prefLabel "Middle Village" ;
+	.
+
+nyc:Q-mitchell-linden
+	a s:Library ;
+	s:address "31-32 Union Street Flushing, NY 11354" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/mitchell-linden" ;
+	skos:prefLabel "Mitchell-Linden" ;
+	.
+
+nyc:Q-north-forest-park
+	a s:Library ;
+	s:address "98-27 Metropolitan Avenue Forest Hills, NY 11375" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/north-forest-park" ;
+	skos:prefLabel "North Forest Park" ;
+	.
+
+nyc:Q-north-hills
+	a s:Library ;
+	s:address "57-04 Marathon Parkway Little Neck, NY 11362" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/north-hills" ;
+	skos:prefLabel "North Hills" ;
+	.
+
+nyc:Q-ozone-park
+	a s:Library ;
+	s:address "92-24 Rockaway Boulevard Ozone Park, NY 11417" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/ozone-park" ;
+	skos:prefLabel "Ozone Park" ;
+	.
+
+nyc:Q-peninsula
+	a s:Library ;
+	s:address "92-25 Rockaway Beach Boulevard Rockaway Beach, NY 11693" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/peninsula" ;
+	skos:prefLabel "Peninsula" ;
+	.
+
+nyc:Q-pomonok
+	a s:Library ;
+	s:address "158-21 Jewel Avenue Flushing, NY 11365" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/pomonok" ;
+	skos:prefLabel "Pomonok" ;
+	.
+
+nyc:Q-poppenhusen
+	a s:Library ;
+	s:address "121-23 14 Avenue College Point, NY 11356" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/poppenhusen" ;
+	skos:prefLabel "Poppenhusen" ;
+	.
+
+nyc:Q-queens-village
+	a s:Library ;
+	s:address "94-11 217 Street Queens Village, NY 11428" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/queens-village" ;
+	skos:prefLabel "Queens Village" ;
+	.
+
+nyc:Q-queensboro-hill
+	a s:Library ;
+	s:address "60-05 Main Street Flushing, NY 11355" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/queensboro-hill" ;
+	skos:prefLabel "Queensboro Hill" ;
+	.
+
+nyc:Q-queensbridge
+	a s:Library ;
+	s:address "10-43 41 Avenue Long Island City, NY 11101" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/queensbridge" ;
+	skos:prefLabel "Queensbridge" ;
+	.
+
+nyc:Q-ravenswood
+	a s:Library ;
+	s:address "35-32 21 Street Long Island City, NY 11106" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/ravenswood" ;
+	skos:prefLabel "Ravenswood" ;
+	.
+
+nyc:Q-rego-park
+	a s:Library ;
+	s:address "91-41 63 Drive Rego Park, NY 11374" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/rego-park" ;
+	skos:prefLabel "Rego Park" ;
+	.
+
+nyc:Q-richmond-hill
+	a s:Library ;
+	s:address "118-14 Hillside Avenue Richmond Hill, NY 11418" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/richmond-hill" ;
+	skos:prefLabel "Richmond Hill" ;
+	.
+
+nyc:Q-ridgewood
+	a s:Library ;
+	s:address "20-12 Madison Street Ridgewood, NY 11385" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/ridgewood" ;
+	skos:prefLabel "Ridgewood" ;
+	.
+
+nyc:Q-rochdale-village
+	a s:Library ;
+	s:address "169-09 137 Avenue Jamaica, NY 11434" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/rochdale-village" ;
+	skos:prefLabel "Rochdale Village" ;
+	.
+
+nyc:Q-rosedale
+	a s:Library ;
+	s:address "144-20 243 Street Rosedale, NY 11422" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/rosedale" ;
+	skos:prefLabel "Rosedale" ;
+	.
+
+nyc:Q-seaside
+	a s:Library ;
+	s:address "116-15 Rockaway Beach Boulevard Rockaway Park, NY 11694" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/seaside" ;
+	skos:prefLabel "Seaside" ;
+	.
+
+nyc:Q-south-hollis
+	a s:Library ;
+	s:address "204-01 Hollis Avenue South Hollis, NY 11412" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/south-hollis" ;
+	skos:prefLabel "South Hollis" ;
+	.
+
+nyc:Q-south-jamaica
+	a s:Library ;
+	s:address "108-41 Guy R. Brewer Boulevard Jamaica, NY 11433" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/south-jamaica" ;
+	skos:prefLabel "South Jamaica" ;
+	.
+
+nyc:Q-south-ozone-park
+	a s:Library ;
+	s:address "128-16 Rockaway Boulevard South Ozone Park, NY 11420" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/south-ozone-park" ;
+	skos:prefLabel "South Ozone Park" ;
+	.
+
+nyc:Q-st.albans
+	a s:Library ;
+	s:address "191-05 Linden Boulevard St.Albans, NY 11412" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/st.albans" ;
+	skos:prefLabel "St. Albans" ;
+	.
+
+nyc:Q-steinway
+	a s:Library ;
+	s:address "21-45 31 Street Astoria, NY 11105" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/steinway" ;
+	skos:prefLabel "Steinway" ;
+	.
+
+nyc:Q-sunnyside
+	a s:Library ;
+	s:address "43-06 Greenpoint Avenue Long Island City, NY 11104" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/sunnyside" ;
+	skos:prefLabel "Sunnyside" ;
+	.
+
+nyc:Q-whitestone
+	a s:Library ;
+	s:address "151-10 14 Road Whitestone, NY 11357" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/whitestone" ;
+	skos:prefLabel "Whitestone" ;
+	.
+
+nyc:Q-windsor-park
+	a s:Library ;
+	s:address "79-50 Bell Boulevard Hollis Hills, NY 11364" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/windsor-park" ;
+	skos:prefLabel "Windsor Park" ;
+	.
+
+nyc:Q-woodhaven
+	a s:Library ;
+	s:address "85-41 Forest Parkway Woodhaven, NY 11421" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/woodhaven" ;
+	skos:prefLabel "Woodhaven" ;
+	.
+
+nyc:Q-woodside
+	a s:Library ;
+	s:address "54-22 Skillman Avenue Woodside, NY 11377" ;
+	s:url "https://www.queenslibrary.org/about-us/locations/woodside" ;
+	skos:prefLabel "Woodside" ;
+	.
+
+nyc:SI-charleston
+	a s:Library ;
+	s:address "225 Bricktown Way Staten Island, NY 10309" ;
+	s:url "https://www.nypl.org/locations/charleston" ;
+	skos:prefLabel "Charleston Library" ;
+	.
+
+nyc:SI-dongan-hills
+	a s:Library ;
+	s:address "1617 Richmond Road Staten Island, NY 10304" ;
+	s:url "https://www.nypl.org/locations/dongan-hills" ;
+	skos:prefLabel "Dongan Hills Library" ;
+	.
+
+nyc:SI-great-kills
+	a s:Library ;
+	s:address "56 Giffords Lane Staten Island, NY 10308" ;
+	s:url "https://www.nypl.org/locations/great-kills" ;
+	skos:prefLabel "Great Kills Library" ;
+	.
+
+nyc:SI-huguenot-park
+	a s:Library ;
+	s:address "830 Huguenot Avenue Staten Island, NY 10312" ;
+	s:url "https://www.nypl.org/locations/huguenot-park" ;
+	skos:prefLabel "Huguenot Park Library" ;
+	.
+
+nyc:SI-mariners-harbor
+	a s:Library ;
+	s:address "206 South Ave Staten Island, NY 10303" ;
+	s:url "https://www.nypl.org/locations/mariners-harbor" ;
+	skos:prefLabel "Mariners Harbor Library" ;
+	.
+
+nyc:SI-new-dorp
+	a s:Library ;
+	s:address "309 New Dorp Lane Staten Island, NY 10306" ;
+	s:url "https://www.nypl.org/locations/new-dorp" ;
+	skos:prefLabel "New Dorp Library" ;
+	.
+
+nyc:SI-port-richmond
+	a s:Library ;
+	s:address "75 Bennett Street Staten Island, NY 10302" ;
+	s:url "https://www.nypl.org/locations/port-richmond" ;
+	skos:prefLabel "Port Richmond Library" ;
+	.
+
+nyc:SI-richmondtown
+	a s:Library ;
+	s:address "200 Clarke Avenue Staten Island, NY 10306" ;
+	s:url "https://www.nypl.org/locations/richmondtown" ;
+	skos:prefLabel "Richmondtown Library" ;
+	.
+
+nyc:SI-south-beach
+	a s:Library ;
+	s:address "41 Father Capodanno Boulevard Staten Island, NY 10305" ;
+	s:url "https://www.nypl.org/locations/south-beach" ;
+	skos:prefLabel "South Beach Library" ;
+	.
+
+nyc:SI-st-george-library-center
+	a s:Library ;
+	s:address "5 Central Avenue Staten Island, NY 10301" ;
+	s:url "https://www.nypl.org/locations/st-george-library-center" ;
+	skos:prefLabel "St. George Library Center" ;
+	.
+
+nyc:SI-stapleton
+	a s:Library ;
+	s:address "132 Canal St.  Staten Island, NY 10304" ;
+	s:url "https://www.nypl.org/locations/stapleton" ;
+	skos:prefLabel "Stapleton Library" ;
+	.
+
+nyc:SI-todt-hill-westerleigh
+	a s:Library ;
+	s:address "2550 Victory Boulevard Staten Island, NY 10314" ;
+	s:url "https://www.nypl.org/locations/todt-hill-westerleigh" ;
+	skos:prefLabel "Todt Hill-Westerleigh Library" ;
+	.
+
+nyc:SI-tottenville
+	a s:Library ;
+	s:address "7430 Amboy Road Staten Island, NY 10307" ;
+	s:url "https://www.nypl.org/locations/tottenville" ;
+	skos:prefLabel "Tottenville Library" ;
+	.
+
+nyc:SI-west-new-brighton
+	a s:Library ;
+	s:address "976 Castleton Avenue Staten Island, NY 10310" ;
+	s:url "https://www.nypl.org/locations/west-new-brighton" ;
+	skos:prefLabel "West New Brighton Library" ;
+	.
+
