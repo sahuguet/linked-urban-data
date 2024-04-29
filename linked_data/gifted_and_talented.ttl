@@ -1,1 +1,17 @@
-../raw_data/gifted_and_talented.ttl
+@prefix gist: <https://semantic-arts.com/gist/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+<https://www.schools.nyc.gov/programs/gifted_and_talented> a gist:Category ;
+skos:prefLabel "NYC Gifted and Talented Citywide Programs" ;
+skos:definition "Gifted and Talented (G&T) programs provide enriched, accelerated curriculum and instructional strategies designed to meet the needs of academically advanced students." ;
+foaf:homepage "https://enrollmentsupport.schools.nyc/app/answers/detail/a_id/3697/~/gifted-and-talented-citywide-programs#:~:text=There%20are%20five%20Citywide%20programs,schools%20only%20offer%20G%26T%20classes." ;
+.
+
+<https://www.schools.nyc.gov/schools/M539> gist:categorizedBy <https://www.schools.nyc.gov/programs/gifted_and_talented> .
+<https://www.schools.nyc.gov/schools/M012> gist:categorizedBy <https://www.schools.nyc.gov/programs/gifted_and_talented> .
+<https://www.schools.nyc.gov/schools/M334> gist:categorizedBy <https://www.schools.nyc.gov/programs/gifted_and_talented> .
+<https://www.schools.nyc.gov/schools/K686> gist:categorizedBy <https://www.schools.nyc.gov/programs/gifted_and_talented> .
+<https://www.schools.nyc.gov/schools/Q300> gist:categorizedBy <https://www.schools.nyc.gov/programs/gifted_and_talented> .
+
+
