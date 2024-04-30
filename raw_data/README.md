@@ -53,3 +53,16 @@ For each branch we provide
 * address
 * url
 * opening hours (TODO)
+
+## Parks
+We get the data from Opendata at https://nycopendata.socrata.com/Recreation/Parks-Properties/enfh-gkve/about_data .
+
+We process the data and generate the TTL triples.
+See `parks.ipynb`.
+
+### TODOs
+* there are few issues with quotes in the name
+* some entries are missing an address
+* some entries are not a park or a playground; today default is park
+* add polygons
+* add amenities
